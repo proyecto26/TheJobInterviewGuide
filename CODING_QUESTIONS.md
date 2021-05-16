@@ -23,9 +23,6 @@
 - What is the expected type of input values?
 - Is it ok to return just integers?
 
-## Solutions
-- Can I try that approach?
-
 ## Remember
 - Are there any details I need?
 - Are there any restrictions?
@@ -33,6 +30,7 @@
 - Do I know everything I need to?
 - Can I identify a pattern by drawing it?
 - Iterative or recursive?
+- Can I try that approach?
 - Will I be able to code this approach?
 - How can I improve this approach?
 
