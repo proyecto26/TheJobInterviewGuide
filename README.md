@@ -3,6 +3,8 @@
   <i>And English is a Work in Progress ⌛</i>
 </p>
 
+> Based on the [Gist](https://gist.github.com/jdnichollsc/b9bedff406b54c3ae2cd651512683b51), thanks to everyone who collaborated in this project! <3
+
 ## Behavioral Interview
 - [The STAR Method](https://github.com/proyecto26/TheJobInterviewGuide/blob/main/BEHAVIORAL_CONCEPTS.md)
 - [Using STAR Method](https://github.com/proyecto26/TheJobInterviewGuide/blob/main/BEHAVIORAL_QUESTIONS.md)
@@ -121,6 +123,14 @@
 - [Recruiting process at Facebook](https://youtu.be/N233T0epWTs)
 - [How to Crush Your Coding Interview](https://www.facebook.com/Engineering/videos/10152735777427200/?v=10152735777427200)
 - [Careers OnAir Technical Interview Coding Demo](https://youtu.be/4NS51hRSaEE)
+
+## Contributing ✨
+When contributing to this repository, please first discuss the change you wish to make via issue, email, or any other method with the owners of this repository before making a change.  
+Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated** ❤️.  
+You can learn more about how you can contribute to this project in the [contribution guide](https://github.com/proyecto26/TheJobInterviewGuide/blob/main/CONTRIBUTING.md).
+
+## License ⚖️
+This repository is available under the [MIT License](https://github.com/proyecto26/TheJobInterviewGuide/blob/main/LICENSE).
 
 ## Supporting 🍻
 I believe in Unicorns 🦄
