@@ -112,6 +112,14 @@
 - [To see some of the questions Facebook has asked: Glassdoor Interview Questions](https://www.glassdoor.com/Interview/Facebook-Software-Engineer-Interview-Questions-EI_IE40772.0,8_KO9,26.htm?sort.sortType=RD&sort.ascending=false)
 - [The Algorithm Design Canvas captures the thought process when solving an algorithmic problem. ](https://www.hiredintech.com/classrooms/algorithm-design/lesson/78)
 - [Gauge how prepared you are on CS fundamentals with more than 400 questions that will take from less than a minute to about an hour to solve.](https://www.interviewbit.com/)
+- [Preparing for Your Initial Interview at Facebook](https://www.facebook.com/careers/FEE-prep-initial)
+- [I interviewed at five top companies in Silicon Valley in five days, and luckily got five job offers](https://medium.com/@XiaohanZeng/i-interviewed-at-five-top-companies-in-silicon-valley-in-five-days-and-luckily-got-five-job-offers-25178cf74e0f)
+
+## Videos
+- [Jackson Gabbard’s Youtube channel](https://www.youtube.com/channel/UCcdCkJKXlRoXVD03eo-q8mQ)
+- [Recruiting process at Facebook](https://youtu.be/N233T0epWTs)
+- [How to Crush Your Coding Interview](https://www.facebook.com/Engineering/videos/10152735777427200/?v=10152735777427200)
+- [Careers OnAir Technical Interview Coding Demo](https://youtu.be/4NS51hRSaEE)
 
 ## Supporting 🍻
 I believe in Unicorns 🦄
