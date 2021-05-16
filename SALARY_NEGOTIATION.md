@@ -99,7 +99,7 @@ Understand that "your mileage may vary." If the employer isn’t very interested
 - Remind then why you are there
 - Make them talk about why they need you
 
-## What are your salary (or hourly rate) expectations?
+## What are your hourly rate expectations?
 I'm absolutely comfortable somewhere in the top quartile of my market value. I'm happy to email you tonight the latest report with information about my market value **(Cost of Living)**:
 
 - https://www.salary.com/
