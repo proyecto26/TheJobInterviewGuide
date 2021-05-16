@@ -43,7 +43,7 @@
 - [Credits](https://github.com/proyecto26/TheJobInterviewGuide/blob/main/DESIGN_EXERCISES.md#credits)
 
 ## Cover Letter
-- [Template](https://github.com/proyecto26/TheJobInterviewGuide/blob/main/COVER_LETTER.md#cover-letter)
+- [Cover Letter Template](https://github.com/proyecto26/TheJobInterviewGuide/blob/main/COVER_LETTER.md#cover-letter)
 - [Resume Template](https://github.com/proyecto26/TheJobInterviewGuide/blob/main/COVER_LETTER.md#resumecv)
 
 ## Job Career
