@@ -39,7 +39,7 @@
 - [Frontend](https://github.com/proyecto26/TheJobInterviewGuide/blob/main/CODING_QUESTIONS.md#frontend)
 - [Backend](https://github.com/proyecto26/TheJobInterviewGuide/blob/main/CODING_QUESTIONS.md#backend)
 
-## Platforms
+### Platforms
 - [Leetcode](https://leetcode.com/problemset/all)
 - [HackerRank](https://www.hackerrank.com/test/61sq9qfa63d/06a0a3f1a21d17dbad04a24fb285b5ce)
 - [CareerCup](https://www.careercup.com/page?pid=facebook-interview-questions)
