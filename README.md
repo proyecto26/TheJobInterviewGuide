@@ -84,6 +84,7 @@
 - [Practice live interviews with peers](https://www.pramp.com)
 - [The Interview Cake Course](https://www.interviewcake.com/table-of-contents)
 - [Get your coding skills certified, practice for technical interviews and build your developer resume](https://codesignal.com/developers)
+- 🇪🇸 🇨🇴 [Club de Algoritmia](https://discord.gg/AjExeyh)
 
 ## JavaScript Language
 - [Learn JavaScript | MDN](https://developer.mozilla.org/en-US/Learn/JavaScript)
