@@ -19,7 +19,7 @@
 - Can I destroy or modify the array?
 - Will the array ever be empty?
 
-## Binary Tress
+## Binary Trees
 - What is the expected type of input values?
 - Is it ok to return just integers?
 
