@@ -89,5 +89,5 @@
 - Being a perfectionist and trying to do everything on my own (not settling for what already exists and works, but trying to improve it)
 
 ## Credits:
-- [Interview Questions and Answers](https://www.linkedin.com/interview-prep)
+- [Interview Questions and Answers by LinkedIn](https://www.linkedin.com/interview-prep)
 - [The STAR Method of Behavioral Interviewing](https://www.vawizard.org/wiz-pdf/STAR_Method_Interviews.pdf)
