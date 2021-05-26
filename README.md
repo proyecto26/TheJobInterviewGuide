@@ -1,7 +1,11 @@
 <h1 align="center">The Job Interview Guide 💼</h1>
 <p align="center">
+  <img width="260" alt="The Job Interview Guide 💼" src="https://user-images.githubusercontent.com/2154886/119609100-a1252700-bdbc-11eb-9954-4be671f02d5b.png">
+  <br>
   <i>And English is a Work in Progress ⌛</i>
 </p>
+
+
 
 > Based on the [Gist](https://gist.github.com/jdnichollsc/b9bedff406b54c3ae2cd651512683b51), thanks to everyone who collaborated in this project! <3
 
