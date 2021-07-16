@@ -121,6 +121,7 @@
 - [Gauge how prepared you are on CS fundamentals with more than 400 questions that will take from less than a minute to about an hour to solve.](https://www.interviewbit.com/)
 - [Preparing for Your Initial Interview at Facebook](https://www.facebook.com/careers/FEE-prep-initial)
 - [I interviewed at five top companies in Silicon Valley in five days, and luckily got five job offers](https://medium.com/@XiaohanZeng/i-interviewed-at-five-top-companies-in-silicon-valley-in-five-days-and-luckily-got-five-job-offers-25178cf74e0f)
+- [Software Architecture Books](https://github.com/mhadidg/software-architecture-books) - A comprehensive list of books on Software Architecture.
 
 ## Videos
 - [Jackson Gabbard’s Youtube channel](https://www.youtube.com/channel/UCcdCkJKXlRoXVD03eo-q8mQ)
