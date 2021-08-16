@@ -43,6 +43,7 @@ Sincerely,\
 
 ## Resume/CV
 - [Resume (CV) Template by @vmoratog and @jdnichollsc](https://codepen.io/pen/?template=LYbdpXW)
+- [Emiliano Viscarra Resume](https://techeria.co/static/files/ba9de3c1408eee9e62e16592cf8367bf/Emiliano-Viscarra-Resume.pdf)
 
 ## Credits
 - [The Ultimate Software Engineer Resume Guide](https://arc.dev/resume)
