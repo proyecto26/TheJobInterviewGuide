@@ -54,3 +54,4 @@ Define what to talk about, set expectations (Roadmap)
 
 ## Credits
 - [Hiring developers](https://qz.com/258066/this-is-why-you-dont-hire-good-developers/)
+- [@juanpavergara](https://github.com/juanpavergara)
