@@ -1,33 +1,3 @@
-## “What is your current salary?”
-- [It's a red flag](https://dev.to/jmfayard/what-is-your-current-salary-is-a-red-flag-that-you-don-t-want-to-work-here-3aji)
-
-### Examples
-> Oh, yeah, I was going to ask you, do you know the budget for the role?
-
-> Can you tell me about the salary range you have budgeted for this role?
-
-> You guys know the market and are good at what you do, I trust you to make a great offer if you're interested.
-
-> I'm not prepared to discuss numbers yet, but if we each decide that we're a good fit, I'm sure we'll find something we are happy with.
-
-> Can you make a written offer?
-
-> Why is it relevant? ... Ah, I see. Thanks for the clarification. Look, I want to be transparent: If you were to make me an offer, it's unlikely I would accept it. Your company isn’t a great fit for me at this time. So I don't want to waste more of your time. But if you wind up brushing up on your interviewing process and making improvements, feel free to reach out to me again for consideration **(10x DEVELOPER)**
-
-> **I am unable to provide my current salary**: As I am sure you understand, my employer considers employee salaries to be confidential, and access to this information is limited to management inside our organization. So, I am unable to share it with you. However, if you share the salary level and range for this position, I can confirm that my salary is within that range or not. I'm sure you'll understand me cause if we would work together and will have any private conversations with you the company could be sure 'll never disclose it as well.
-
-> I don't think that my current salary is relevant, but if you must have that information, I will provide it after you share the salary level and range for this job.
-
-> I **will** share my salary expectations with you, and we can see if it fits into your salary range for this position.
-
-> I have done my initial homework, and salary information on the Internet indicates I’m in the range. For now we should assume that salary won’t be an issue.  Plus, I need to understand the full extent of the opportunity and the benefits you provide to employees plus what the salary range is for this role.
-
-> I am seeking a base pay of $XX,XXX **(HIGHER END OF YOUR RANGE)**, but I can be flexible depending on the benefits and any incentives you may offer.
-
-> Sharing my current salary is inappropriate for me. I'm expecting to be compensated conmesurately with my experience and the role that I’ll have at this company.
-
-Understand that "your mileage may vary." If the employer isn’t very interested (or has many other people they could hire), they probably won’t do much negotiation. If they are very interested in you, they will negotiate. Many employers expect to negotiate starting salaries. However, some do not want to negotiate and may even withdraw a job offer if pressed for a higher starting salary.
-
 ## What is your salary expectation?
 
 ### Examples
@@ -49,17 +19,55 @@ Understand that "your mileage may vary." If the employer isn’t very interested
 
 > Thank you for that question. Hey, I'm just an engineer, I'm sure you know the market better than me so I trust you to evaluate my skill set first and if we are a great fit to circle back to that topic.
 
-> **They offer a lower salary:** Thank you, my current salary rate is higher, but you could always call me back at any time if you still think we are a great fit for each other.
-
-> **They offer an equal salary:** Thank you, I think we are on the same page in terms of salary ranges but let us circle back to that conversation later after we will check how good is our mutual fit.
-
-> **I need a number to fill a form:** Just put a dollar so we could circle back to that later.
-
 > Listen, you need somebody to do this job. I'm somebody who can do that job. Let me describe to you how well I can do that job and how well I understand what your needs are. And then we can talk about what's the appropriate price for you to pay me to do that job. And we can collaborate to find something that we both feel is good.
 
 > I don't have one. Look, I know you want to be fair. You have salary ranges for employees with a given skillset and responsibility, right? I don't want to be paid less than everybody else. I don't want to be paid more than everybody else. Just give me something in the middle.
 
 > Based on my research and the information you have provided, I believe that a salary in the range of $XX,XXX to $XX,XXX with [# of weeks of] paid vacation, [other benefits important to you which have been stated as included], and your other benefits would be appropriate.
+
+## They offer a lower salary
+
+> Thank you, my current salary rate is higher, but you could always call me back at any time if you still think we are a great fit for each other.
+
+> Hello, thanks for reaching me out. The offer you're sharing with me sounds very interesting, unfortunately I'm not open to new offers at the moment. Thanks and let’s keep in touch, I'll reach you out if I happen to change my mind, have a great day!
+
+## They offer an equal salary
+
+> Thank you, I think we are on the same page in terms of salary ranges but let us circle back to that conversation later after we will check how good is our mutual fit.
+
+## They don't offer a salary range
+
+> **I need a number to fill a form:** Just put a dollar so we could circle back to that later.
+
+> I am seeking a base pay of $XX,XXX **(HIGHER END OF YOUR RANGE)**, but I can be flexible depending on the benefits and any incentives you may offer.
+
+## “What is your current salary?”
+- [It's a red flag](https://dev.to/jmfayard/what-is-your-current-salary-is-a-red-flag-that-you-don-t-want-to-work-here-3aji)
+
+### Examples
+> Oh, yeah, I was going to ask you, do you know the budget for the role?
+
+> Can you tell me about the salary range you have budgeted for this role?
+
+> You guys know the market and are good at what you do, I trust you to make a great offer if you're interested.
+
+> I'm not prepared to discuss numbers yet, but if we each decide that we're a good fit, I'm sure we'll find something we are happy with.
+
+> Hello, XYZ. Thanks for reaching out. This sounds like an interesting opportunity, but I'd like to be respectful of your time. May I ask about the salary (range is fine) and benefits plan beforehand?
+
+> Why is it relevant? ... Ah, I see. Thanks for the clarification. Look, I want to be transparent: If you were to make me an offer, it's unlikely I would accept it. Your company isn’t a great fit for me at this time. So I don't want to waste more of your time. But if you wind up brushing up on your interviewing process and making improvements, feel free to reach out to me again for consideration **(10x DEVELOPER)**
+
+> **I am unable to provide my current salary**: As I am sure you understand, my employer considers employee salaries to be confidential, and access to this information is limited to management inside our organization. So, I am unable to share it with you. However, if you share the salary level and range for this position, I can confirm that my salary is within that range or not. I'm sure you'll understand me cause if we would work together and will have any private conversations with you the company could be sure 'll never disclose it as well.
+
+> I don't think that my current salary is relevant, but if you must have that information, I will provide it after you share the salary level and range for this job.
+
+> I **will** share my salary expectations with you, and we can see if it fits into your salary range for this position.
+
+> I have done my initial homework, and salary information on the Internet indicates I’m in the range. For now we should assume that salary won’t be an issue.  Plus, I need to understand the full extent of the opportunity and the benefits you provide to employees plus what the salary range is for this role.
+
+> Sharing my current salary is inappropriate for me. I'm expecting to be compensated conmesurately with my experience and the role that I’ll have at this company.
+
+Understand that "your mileage may vary." If the employer isn’t very interested (or has many other people they could hire), they probably won’t do much negotiation. If they are very interested in you, they will negotiate. Many employers expect to negotiate starting salaries. However, some do not want to negotiate and may even withdraw a job offer if pressed for a higher starting salary.
 
 ### Benefits/Perks
 - Signing bonus (only increasing the first year income)
