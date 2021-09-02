@@ -23,8 +23,6 @@
 
 > I don't have one. Look, I know you want to be fair. You have salary ranges for employees with a given skillset and responsibility, right? I don't want to be paid less than everybody else. I don't want to be paid more than everybody else. Just give me something in the middle.
 
-> Based on my research and the information you have provided, I believe that a salary in the range of $XX,XXX to $XX,XXX with [# of weeks of] paid vacation, [other benefits important to you which have been stated as included], and your other benefits would be appropriate.
-
 ## They offer a lower salary
 
 > Thank you, my current salary rate is higher, but you could always call me back at any time if you still think we are a great fit for each other.
@@ -40,6 +38,8 @@
 > **I need a number to fill a form:** Just put a dollar so we could circle back to that later.
 
 > I am seeking a base pay of $XX,XXX **(HIGHER END OF YOUR RANGE)**, but I can be flexible depending on the benefits and any incentives you may offer.
+
+> Based on my research and the information you have provided, I believe that a salary in the range of $XX,XXX to $XX,XXX with [# of weeks of] paid vacation, [other benefits important to you which have been stated as included], and your other benefits would be appropriate.
 
 ## “What is your current salary?”
 - [It's a red flag](https://dev.to/jmfayard/what-is-your-current-salary-is-a-red-flag-that-you-don-t-want-to-work-here-3aji)
