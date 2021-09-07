@@ -123,6 +123,7 @@ I'm absolutely comfortable somewhere in the top quartile of my market value. I'm
 
 
 ## Credits
+- [@uxDaniel](https://github.com/uxDaniel)
 - [Tips for negotiating your salary (from an ex-FAANG recruiter)](https://youtu.be/u9BoG1n1948)
 - [The Trimodal Nature of Software Engineer Compensation: Why Positions Pay a (Very) Different Salary](https://youtu.be/h8Xpapy6I9E)
 - [Negotiating Your Salary and Advancing Your Career with Josh Doody](https://egghead.io/podcasts/negotiating-your-salary-and-advancing-your-career-with-josh-doody)
