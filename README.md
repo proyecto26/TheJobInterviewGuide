@@ -111,6 +111,7 @@
 - [Why did we build React?](https://reactjs.org/blog/2013/06/05/why-react.html)
 
 ## Resources
+- [Microsoft Interview tips](https://careers.microsoft.com/us/en/interviewtips)
 - [Cracking the Coding Interview](https://www.amazon.com/dp/0984782850/)
 - [Introduction to Algorithms](https://www.amazon.com/dp/0262033844)
 - [Algorithms in C](https://www.amazon.com/Algorithms-Parts-1-5-Bundle-Fundamentals/dp/0201756080)
