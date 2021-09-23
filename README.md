@@ -45,7 +45,7 @@
 
 ### Platforms
 - [Leetcode](https://leetcode.com/problemset/all)
-- [HackerRank](https://www.hackerrank.com/test/61sq9qfa63d/06a0a3f1a21d17dbad04a24fb285b5ce)
+- [HackerRank](https://www.hackerrank.com/interview/interview-preparation-kit)
 - [CareerCup](https://www.careercup.com/page?pid=facebook-interview-questions)
 - [HiredInTech](https://www.hiredintech.com/)
 - [CodeChef](https://www.codechef.com/)
