@@ -10,7 +10,7 @@
 
 To Whom It May Concern:
 
-I am a software engineer with a background in web and mobile development, having 8+ years of practice and leadership building interactive experiences. I am writing to apply for the position of **[Role Name]** at **[Company Name]** posted in **[LinkedIn/StackOverflow/etc]**. As a huge fan of **[Field Name]** and also because Technology is changing all of the time, and I feel the skills, qualities and values I possess are a good match **[for your company/to your growing team]**.
+I am an experienced Software Engineer with a background in web and mobile development, having 9+ years of practice and leadership building interactive experiences. I am writing to apply for the position of **[Role Name]** at **[Company Name]** posted in **[LinkedIn/StackOverflow/etc]**. As a huge fan of **[Field Name]** and also because Technology is changing all of the time, and I feel the skills, qualities and values I possess are a good match **[for your company/to your growing team]**.
 
 ### Work History/Results
 
