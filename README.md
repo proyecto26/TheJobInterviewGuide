@@ -9,6 +9,11 @@
 
 > Based on the [Gist](https://gist.github.com/jdnichollsc/b9bedff406b54c3ae2cd651512683b51), thanks to everyone who collaborated in this project! <3
 
+## English
+
+- [Useful expressions](https://github.com/proyecto26/TheJobInterviewGuide/blob/main/EXPRESSIONS.md)
+
+
 ## Behavioral Interview
 - [The STAR Method](https://github.com/proyecto26/TheJobInterviewGuide/blob/main/BEHAVIORAL_CONCEPTS.md)
 - [Using STAR Method](https://github.com/proyecto26/TheJobInterviewGuide/blob/main/BEHAVIORAL_QUESTIONS.md)
