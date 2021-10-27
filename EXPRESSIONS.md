@@ -81,6 +81,10 @@
 - What do you have **down to a science**?
 - Will they be able to **cope with** the work?
 
+## Projects
+
+- From the customer's perspective...
+
 ## Idioms
 - Fortunately, this project isn't **rocket science**.
 - Finding a good Co-Founder is rocket science to me, it's like finding a great wife!
