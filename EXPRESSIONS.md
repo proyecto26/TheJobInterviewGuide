@@ -1,5 +1,12 @@
 # Expressions
 
+## Daily Standup
+- Yesterday, I started to dig into the ticket ###
+- I made good progress on this task here. I think I've got about two hours left.
+- We're awaiting for response here, so let’s move on to another task
+- I have no blockers from my end
+- That's all from my side
+
 ## Positive comments!
 - Great work so far!
 - I couldn't be more excited to be here!
