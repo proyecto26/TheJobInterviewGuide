@@ -57,116 +57,214 @@ I'm very responsible, reliable and disciplined person.
 
 ## Experience
 
-### Tell me about a situation when you failed
-- Scaling a problem instead of having a direct conversation with my coworker first.
-- I remember once I started on a project that was delayed, having sprints of a week and also I got a hard deadline here. This project was using deprecated libraries and I spent a lot of time updating everything to avoid code refactors in the future, in the end it was a success but I was tired and bored because I had invested a lot of my free time.
+<details>
+  <summary><b>Tell me about a situation when you failed</b></summary>
 
-It's better if you keep iterating and make it better as well as you need instead of trying to make everything perfect the first time, to avoid frustration because nothing will ever truly be perfect **(Perfect is the enemy of good)** and being able to recognize the value of constructive criticism.
+  - Scaling a problem instead of having a direct conversation with my coworker first.
+  - I remember once I started on a project that was delayed, having sprints of a week and also I got a hard deadline here. This project was using deprecated libraries and I spent a lot of time updating everything to avoid code refactors in the future, in the end it was a success but I was tired and bored because I had invested a lot of my free time.
+</details>
 
-### How would your boss and co-workers describe you?
-- Recognized for being helpful with the team
-- Known for being assertive in proposing solutions and ideas
+> It's better if you keep iterating and make it better as well as you need instead of trying to make everything perfect the first time, to avoid frustration because nothing will ever truly be perfect **(Perfect is the enemy of good)** and being able to recognize the value of constructive criticism.
 
-### Why are you leaving your current job?
-I'm no sure if I'm going to leave my current job, honestly I'm curious about the kind of challenges I could face working with you and see if I'm interested because right now I'm working for an excellent company with an amazing team, creating solutions for clients like Nordstrom that can reach a lot of people and face great challenges too.
+<details>
+  <summary><b>How would your boss and co-workers describe you?</b></summary>
 
-### What do you expect with this job?
+  - Recognized for being helpful with the team
+  - Known for being assertive in proposing solutions and ideas
+</details>
 
-- Being able to support others and give back to my community is very important to me (mentorship, speaker).
-- Working with you I expect to have the opportunity to express my ideas. Be authentic, creative, and allow me to solve interesting problems that can impact people's lives. 
-- I would love the possibility to have a career path well defined to grow into the company, to be able to develop my skills and become the best version of myself.
-- I hope the chance to share knowledge, continue learning together and get awesome experiences.
+<details>
+  <summary><b>Why are you leaving your current job?</b></summary>
+  
+  I'm no sure if I'm going to leave my current job, honestly I'm curious about the kind of challenges I could face working with you and see if I'm interested because right now I'm working for an excellent company with an amazing team, creating solutions for amazing clients that can reach a lot of people and face great challenges too.
+</details>
 
-### What's your dream job?
-- A job that allows me to work from anywhere, being able to be an international speaker and mentor, attend interesting events, share about technology with other people and help tech communities like CodeYourFuture.
-- A job that allows me to meet people and innovate while solving complex problems (like magic).
-- A job that allows me to research and learn interesting things in order to solve problems with technology.
-- Supporting Open Source projects while I'm creating awesome apps.
+<details>
+  <summary><b>What do you expect with this job?</b></summary>
 
-### How you deal with getting stuck?
+  - Being able to support others and give back to my community is very important to me (mentorship, speaker).
+  - Working with you I expect to have the opportunity to express my ideas. Be authentic, creative, and allow me to solve interesting problems that can impact people's lives. 
+  - I would love the possibility to have a career path well defined to grow into the company, to be able to develop my skills and become the best version of myself.
+  - I hope the chance to share knowledge, continue learning together and get awesome experiences.
+</details>
+  
+<details>
+  <summary><b>What's your dream job?</b></summary>
+  
+  - A job that allows me to work from anywhere, being able to be an international speaker and mentor, attend interesting events, share about technology with other people and help tech communities like CodeYourFuture.
+  - A job that allows me to meet people and innovate while solving complex problems (like magic).
+  - A job that allows me to research and learn interesting things in order to solve problems with technology.
+  - Supporting Open Source projects while I'm creating awesome apps.
+</details>
 
-I prefer to rely on my team instead of spending a lot of time solving any problem on my own.
-- Else if, I try to find out if it's a common mistake or if someone has had the same problem.
-- Else if none of the above works, I seek to report the error in case someone else can help me and in the meantime I try to figure this out for myself.
+<details>
+  <summary><b>How you deal with getting stuck?</b></summary>
 
-### How do you deal with pressure or stressful situations?
-- Stopping to take a moment (10 deep breaths), break the problem into specific issues and priorize to solve that critical situation.
+  I prefer to rely on my team instead of spending a lot of time solving any problem on my own.
+  - Else if, I try to find out if it's a common mistake or if someone has had the same problem.
+  - Else if none of the above works, I seek to report the error in case someone else can help me and in the meantime I try to figure this out for myself.
+</details>
 
-### What do you like to do outside of work?
-- I like to share knowledge as speaker/mentor in local communities like ColombiaDev, MedellinJS, CodeYourFuture, etc.
-- I like working on open source projects that could be useful for my work and at the same time help others while receiving external feedback to continue learning.
-- I also like to spend time with my girlfriend and do exercise, watch movies and series, travel and continue studying.
-- I want to create more side projects, apps and games of my own ideas.
+<details>
+  <summary><b>How do you deal with pressure or stressful situations?</b></summary>
+  
+  - Stopping to take a moment (10 deep breaths), break the problem into specific issues and priorize to solve that critical situation.
+</details>
 
-## What are you looking for in a new position?
-- New challenges
-- New ways of doing things to constantly improve
+<details>
+  <summary><b>What do you like to do outside of work?</b></summary>
+  
+  - I like to share knowledge as speaker/mentor in local communities like ColombiaDev, MedellinJS, CodeYourFuture, etc.
+  - I like working on open source projects that could be useful for my work and at the same time help others while receiving external feedback to continue learning.
+  - I also like to spend time with my girlfriend and do exercise, watch movies and series, travel and continue studying.
+  - I want to create more side projects, apps and games of my own ideas.
+</details>
 
-### Where do you see yourself in 5 years?
-- I’m looking forward to being an interviewer in the next 2 years, I’ve been practicing algorithms, mock interviews and behavioral questions with some books like **Cracking the Coding Interview**, also participating in communities, and I started creating a resource called “The Job Interview Guide”, in order to help other developers to get a great job!
-- Developing into a great developer, being an international speaker and helping other developers to grow in this profession is something I'm really excited about.
-- I'd like to be seen as someone with deep expertise as Sofwate Architect, being able to build large-scale systems that can face many interesting challenges.
-- Well, hopefully working for your company. I would like to first become very good at my job. And then after that I will be ready to asume new responsabilities and go for the next step.
+<details>
+  <summary><b>What are you looking for in a new position?</b></summary>
+  
+  - New challenges
+  - New ways of doing things to constantly improve
+</details>
 
-### What type of work environment do you prefer?
-- I like working remotely, but I also like working with others, having the opportunity to have flexible schedule to share with my colleagues and my family.
+<details>
+  <summary><b>Where do you see yourself in 5 years?</b></summary>
+  
+  - I’m looking forward to being a tech interviewer in the next 2 years, I’ve been practicing algorithms, mock interviews and behavioral questions with some books like **Cracking the Coding Interview**, also participating in communities, and I started creating a resource called “The Job Interview Guide”, in order to help other developers to get a great job!
+  - Developing into a great developer, being an international speaker and helping other developers to grow in this profession is something I'm really excited about.
+  - I'd like to be seen as someone with deep expertise as Sofwate Architect, being able to build large-scale systems that can face many interesting challenges.
+  - Well, hopefully working for your company. I would like to first become very good at my job. And then after that I will be ready to asume new responsabilities and go for the next step.
+</details>
 
-### What's time you exercised leadership?
-- Most of the time during meetings, talking about development, etc but I prefer to delegate responsibilities, so anyone on the team can be a leader!
+<details>
+  <summary><b>What type of work environment do you prefer?</b></summary>
+  
+  - I like working remotely, but I also like working with others, having the opportunity to have flexible schedule to share with my colleagues and my family.
+</details>
+  
+<details>
+  <summary><b>What's time you exercised leadership?</b></summary>
 
-### What's time you disagreed with a decision that was made at work?
-- I remember once a **PM** had coordinated a delivery with the client, so we have a meeting with the **Architect** because I did not agree to make decisions without taking the team into account, at the end of the day we had the opportunity to clarify everything and make a better decision all together :)
+  - Most of the time during meetings, talking about development, etc but I prefer to delegate responsibilities, so anyone on the team can be a leader!
+</details>
+  
+<details>
+  <summary><b>What's time you disagreed with a decision that was made at work?</b></summary>
 
-### Have you ever worked with an engineer who wasn't performing well?
+  - I remember once a **PM** had coordinated a delivery with the client, so we have a meeting with the **Architect** because I did not agree to make decisions without taking the team into account, at the end of the day we had the opportunity to clarify everything and make a better decision all together :)
+</details>
+  
+<details>
+  <summary><b>Have you ever worked with an engineer who wasn't performing well?</b></summary>
 - I remember once a developer lied to me about an assigned task because he had been late in completing it, a colleague told me what happened but I preferred to give him a second chance, help him understand the problem he had to avoid it happen again and then he was able to perform the tasks very well.
+</details>
 
-### What is it about you that makes you a good fit for this position?
-- I have the experience you're looking for, but most important, I'm most excited when I work in a team, I love to propose new ideas and take risks, I have experience creating projects for others, which help to generate a great impact while solving all kinds of technical problems.
-- With my experience, I know we can face a lot of interesting challenges and deliver better consumer experiences while we're connecting people around the world and learning together.
-- I have experience creating tools that are used across the world which allows developers to scale their solutions in many projects, teams and large organizations.
+<details>
+  <summary><b>What is it about you that makes you a good fit for this position?</b></summary>
 
-### Why do you want to work for us?
-Personally I want to work with you because of the impact you have on people, nothing motivates me more than seeing that my work can make people's live easier, adding my "grain of sand" to change the world by creating creative/innovative solutions that can help to empower people. Also, I like your values, when someone can be authentic, take risks and help others (I believe that most of the world's problems can be solved by connecting people).
+  - I have the experience you're looking for, but most important, I'm most excited when I work in a team, I love to propose new ideas and take risks, I have experience creating projects for others, which help to generate a great impact while solving all kinds of technical problems.
+  - With my experience, I know we can face a lot of interesting challenges and deliver better consumer experiences while we're connecting people around the world and learning together.
+  - I have experience creating tools that are used across the world which allows developers to scale their solutions in many projects, teams and large organizations.
+</details>
 
-Profesionally, the opportunity to work with talented proffesionals, looking to solve interesting problems with technology but also to have good spaces for sharing knowledge to help me make better decisions, build better products and create better experiences for everyone.
+<details>
+  <summary><b>Why do you want to work for us?</b></summary>
+  
+  Personally I want to work with you because of the impact you have on people, nothing motivates me more than seeing that my work can make people's live easier, adding my "grain of sand" to change the world by creating creative/innovative solutions that can help to empower people. Also, I like your values, when someone can be authentic, take risks and help others (I believe that most of the world's problems can be solved by connecting people).
 
+  Profesionally, the opportunity to work with talented proffesionals, looking to solve interesting problems with technology but also to have good spaces for sharing knowledge to help me make better decisions, build better products and create better experiences for everyone.
+</details>
+  
 > Maybe mention your own ideas about social changes, etc, e.g => https://github.com/proyecto26/social-change
 
-### What professional accomplishment are you most proud of?
-- Designed the baseline for cross-platform mobile applications in different companies.
-- At **Yuxi**, I had the opportunity to mentor a junior developer by delegating leadership responsibilities, helping her develop confidence, and take on new challenges to enhance her soft skills. Because at the end of the day it does not matter who the leader is, but rather that we're happy in what we're doing.
-- At my current company I had the opportunity to start working for a Startup that later was acquired by Nordstrom, I had the responsability to investigate new Frontend technologies (Frameworks), migrate some apps and then I defined a modular architecture with **React Native** that today is used for multiple teams. With the help of the team, 2 weeks ago, on the **Nordstrom Anniversary**, the app reached a million dollars in one day, that was impressive!
+<details>
+  <summary><b>What professional accomplishment are you most proud of?</b></summary>
 
-### What's your greatest professional achievement?
-- My best professional achievement is **Proyecto 26**, I created it with the idea of Changing the world with small contributions, basically Open Source projects that can have a positive impact on the world. I've reach more than 1 million downloads with one of my plugins (A native plugin for platforms like iOS and Android in order to improve the user experience), so it's used by a lot of projects and during the process I've had the opportunity to work with people from all over the world and learn a lot!
+  - Designed the baseline for cross-platform mobile applications in different companies.
+  - At **Yuxi**, I had the opportunity to mentor a junior developer by delegating leadership responsibilities, helping her develop confidence, and take on new challenges to enhance her soft skills. Because at the end of the day it does not matter who the leader is, but rather that we're happy in what we're doing.
+  - At my current company I had the opportunity to start working for a Startup that later was acquired by Nordstrom, I had the responsability to investigate new Frontend technologies (Frameworks), migrate some apps and then I defined a modular architecture with **React Native** that today is used for multiple teams. With the help of the team, 2 weeks ago, on the **Nordstrom Anniversary**, the app reached a million dollars in one day, that was impressive!
+</details>
+  
+<details>
+  <summary><b>What's your greatest professional achievement?</b></summary>
+  
+  - My best professional achievement is **Proyecto 26**, I created it with the idea of Changing the world with small contributions, basically Open Source projects that can have a positive impact on the world. I've reach more than 1 million downloads with one of my plugins (A native plugin for platforms like iOS and Android in order to improve the user experience), so it's used by a lot of projects and during the process I've had the opportunity to work with people from all over the world and learn a lot!
+</details>
 
-### What was the hardest bug you've faced?
-### What is the last significant thing you learned to do your job better?
-### What would you do differently in your next role?
-### How do you deal with conflict?
-### How do you like to give and receive feedback?
-- Getting positive suggestions for the future
-- No judging or critiquing ideas
-- Giving it face to face
-- Opportunity to seek advice
-- Create safety (build confidence)
-### What were some of the best things you've built?
-- Open Source projects
-### What are the most interesting projects you’ve worked on?
-- Plugins for games
-- Packages for mobile apps
-### What are some of the biggest professional challenges you’ve faced?
-- Reach millions of downloads with my side projects
-### What major changes to your workflow have happened in the last year?
-- Modular architecture to work with multiple teams
-### Why are you working as a software engineer?
-- Because I love to be a creator, using technology to create new things
-### How do you collaborate with your peers?
-### Tell me about your best collaboration experience
-### Tell me about a challenging interaction with a teammate
-### Tell me about a time when you advocated for and pushed your own ideas forward despite opposition?
-### Have you ever worked fully remote before? How do you feel about this experience?
-### Describe your typical project, workflow, or product development experience when working with backend or frontend applications
+<details>
+  <summary><b>What was the hardest bug you've faced?</b></summary>
+</details>
+
+<details>
+  <summary><b>What is the last significant thing you learned to do your job better?</b></summary>
+</details>
+
+<details>
+  <summary><b>What would you do differently in your next role?</b></summary>
+</details>
+
+<details>
+  <summary><b>How do you deal with conflict?</b></summary>
+</details>
+
+<details>
+  <summary><b>How do you like to give and receive feedback?</b></summary>
+  
+  - Getting positive suggestions for the future
+  - No judging or critiquing ideas
+  - Giving it face to face
+  - Opportunity to seek advice
+  - Create safety (build confidence)
+</details>
+
+<details>
+  <summary><b>What were some of the best things you've built?</b></summary>
+  
+  - Open Source projects
+</details>
+
+<details>
+  <summary><b>What are the most interesting projects you’ve worked on?</b></summary>
+  
+  - Plugins for games
+  - Packages for mobile apps
+</details>
+
+<details>
+  <summary><b>What are some of the biggest professional challenges you've faced?</b></summary>
+  
+  - Reach millions of downloads with my side projects
+</details>
+
+<details>
+  <summary><b>What major changes to your workflow have happened in the last year?</b></summary>
+  - Modular architecture to work with multiple teams
+</details>
+
+<details>
+  <summary><b>Why are you working as a software engineer?</b></summary>
+  
+  - Because I love to be a creator, using technology to create new things
+</details>
+
+<details>
+  <summary><b>How do you collaborate with your peers?</b></summary>
+</details>
+<details>
+  <summary><b>Tell me about your best collaboration experience</b></summary>
+</details>
+<details>
+  <summary><b>Tell me about a challenging interaction with a teammate</b></summary>
+</details>
+<details>
+  <summary><b>Tell me about a time when you advocated for and pushed your own ideas forward despite opposition?</b></summary>
+</details>
+<details>
+  <summary><b>Have you ever worked fully remote before? How do you feel about this experience?</b></summary>
+</details>
+<details>
+  <summary><b>Describe your typical project, workflow, or product development experience when working with backend or frontend applications</b></summary>
+</details>
 
 ## Questions for us?
 
