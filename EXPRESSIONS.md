@@ -11,6 +11,7 @@
 - Great work so far!
 - I couldn't be more excited to be here!
 - We can’t do this without all of you, great job team!
+- Without of you none of this would be possible today!
 
 ## Helpful
 - I'm here at the mercy of you!
