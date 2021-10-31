@@ -16,7 +16,7 @@
 
 ## Behavioral Interview
 - [The STAR Method](https://github.com/proyecto26/TheJobInterviewGuide/blob/main/BEHAVIORAL_CONCEPTS.md)
-- [Using STAR Method](https://github.com/proyecto26/TheJobInterviewGuide/blob/main/BEHAVIORAL_QUESTIONS.md)
+- [Questions](https://github.com/proyecto26/TheJobInterviewGuide/blob/main/BEHAVIORAL_QUESTIONS.md)
 
 ## Coding Interview
 
