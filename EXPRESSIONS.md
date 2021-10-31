@@ -11,6 +11,8 @@
 - I want to be in an environment where I can adapt to new situations as part of the change, where mistakes are seen as an opportunity for improvement.
 - I want to work in a place where I can develop self-confidence at my own pace, where I can give myself time to reflect on the past and focus on the future.
 - I want to work with people who have an excitement for adventure and the same passion to continue learning.
+- I hope to find myself in an environment where every day is different, where I can work with talented people who are equally motivated and curious, where I can live experiences that allow me to find a better version of myself.
+- I want to be where I can feel comfortable about not having have the perfect answer to questions and being able to have support from my team to keep improving, because nothing is really perfect.
 
 ## Daily Standup
 - Yesterday, I started to dig into the ticket ###
