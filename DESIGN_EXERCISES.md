@@ -1,3 +1,25 @@
+# Design Exercises
+
+- Define Actors/Stakeholders:
+  - Customers: anyone interested in purchasing their products.
+  - Merchants/Providers
+  - Third party systems (sources of truth).
+- Define limitations and trade-offs:
+  - Design decisions (weaknesses & strengths).
+  - Number of write/read Transactions per day/month.
+- Create a high level system design:
+  - Constraints and Assumpstions.
+  - Limitations & Unknowns.
+  - Out of scope.
+  - Define Non-functional and functional requirements.
+  - Define Risks and Strategies (Bottlenecks, Restrictions, delimit edges, Troubleshooting scenarios)
+  - Define Deployment Strategy: Treat configuration as code (Ansible, Terraform, Jenkins, Docker and Kubernetes) and Deploy services independently.
+  - Scaling to enforce high cohesion and loose coupling (Redundancy / Consistency).
+  - Availability patterns: **Fail-over** (load balancer, managing traffic and DNS using public IPs or CNAME records), **Database Replication** (Master-slave, master-master), 
+  - Consider the **type of data**: Put transactional data into SQL, put JSON documents into a document database, put telemetry data into a time series data base, put application logs in Elasticsearch, and put blobs in Azure Blob Storage.
+  - Performance: use asynchronous messaging with a pub/sub architecture (Kibana) and backend services using RPC-style messaging protocol.
+  - Monitoring: use distributed tracing (NewRelic, Splunk) to identify the cause of the failure (Traces should include a correlation ID).
+
 ## Amazon Dashboard
 
 - Define Objective/Requeriments
