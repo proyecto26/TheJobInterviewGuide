@@ -9,7 +9,7 @@
 - Other situations aligned with the previous values.
 - Prepare sticky notes.
 
-### Examples
+## Examples
 
 <details>
   <summary><b>Describe a situation in which you were able to use persuasion to successfully convince someone to see things your way.</b></summary>
