@@ -1,4 +1,4 @@
-## Behavioral Questions
+# Behavioral Questions
 
 - How do you work with others?
 - How open are you to receiving feedback?
