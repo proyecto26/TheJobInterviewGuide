@@ -185,6 +185,18 @@
   - Being a perfectionist and trying to do everything on my own (not settling for what already exists and works, but trying to improve it)
 </details>
 
+## Remember
+- Be yourself; mention where I have been wrong, I have failed **(Everyone makes mistakes)** and express the initiatives that I have taken.
+- Talk more about what I did, instead of talking so much about what we did as a team; e.g: I disccused with the manager, I shared a technical presentation with the team and together we managed to decide this. Talk with your team
+- There have been several situations where I failed, did I communicate it in time? it is important to mention it
+- Be honest, express if I made bad decisions, if it took me longer, and that I learned from the process.
+- How do you interact with the team?
+- How do I react to failure? Show what I learned from the experience to avoid repeating the same mistakes.
+- Give numbers, coverage improved, how much percentage? improved sales, how much? Did the decisions I made help make life easier for users?
+- Focused more about the product than about technology, it is important to ask yourself what are we doing? what is the goal of what we are building? to align the vision with the product team.
+- Show them you take responsibility for mistakes.
+- Keep it brief and concise. Try to tell the story in chronological order, too, without having to go back and forward in time repeatedly.
+
 ## Credits:
 - [Interview Questions and Answers by LinkedIn](https://www.linkedin.com/interview-prep)
 - [The STAR Method of Behavioral Interviewing](https://www.vawizard.org/wiz-pdf/STAR_Method_Interviews.pdf)
