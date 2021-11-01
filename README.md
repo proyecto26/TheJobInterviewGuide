@@ -61,6 +61,7 @@
 - [CodeChef](https://www.codechef.com)
 
 ## System Design Interview
+- [Design Exercises](https://github.com/proyecto26/TheJobInterviewGuide/blob/main/DESIGN_EXERCISES.md#design-exercises)
 - [Amazon Dashboard](https://github.com/proyecto26/TheJobInterviewGuide/blob/main/DESIGN_EXERCISES.md#amazon-dashboard)
 - [Facebook Fake Accounts](https://github.com/proyecto26/TheJobInterviewGuide/blob/main/DESIGN_EXERCISES.md#facebook-fake-accounts)
 - [Credits](https://github.com/proyecto26/TheJobInterviewGuide/blob/main/DESIGN_EXERCISES.md#credits)
