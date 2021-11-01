@@ -8,7 +8,7 @@
   - Design decisions (weaknesses & strengths).
   - Number of write/read Transactions per day/month.
 - Create a high level system design:
-  - Constraints and Assumpstions.
+  - Constraints and Assumptions.
   - Limitations & Unknowns.
   - Out of scope.
   - Define Non-functional and functional requirements.
