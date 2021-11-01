@@ -1,5 +1,16 @@
 ## Behavioral Questions
 
+- How do you work with others?
+- How open are you to receiving feedback?
+- Tell me about a time where you made a mistake in a previous project/job.
+- Describe a situation where you had to complete a task/goal, and you could achieve it.
+- Give me an example of a time when you disagreed with a colleague.
+- Tell me about a time when you had to provide constructive feedback to a team member.
+- Other situations aligned with the previous values.
+- Prepare sticky notes.
+
+### Examples
+
 <details>
   <summary><b>Describe a situation in which you were able to use persuasion to successfully convince someone to see things your way.</b></summary>
 
