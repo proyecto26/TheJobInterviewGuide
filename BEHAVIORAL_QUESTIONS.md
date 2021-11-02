@@ -6,7 +6,6 @@
 - Describe a situation where you had to complete a task/goal, and you could achieve it.
 - Give me an example of a time when you disagreed with a colleague.
 - Tell me about a time when you had to provide constructive feedback to a team member.
-- Other situations aligned with the previous values.
 - Prepare sticky notes.
 
 ## Examples
