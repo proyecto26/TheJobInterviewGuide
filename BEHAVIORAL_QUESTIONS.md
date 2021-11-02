@@ -204,7 +204,7 @@
 - How do you interact with the team?
 - How do I react to failure? Show what I learned from the experience to avoid repeating the same mistakes.
 - Give numbers, coverage improved, how much percentage? improved sales, how much? Did the decisions I made help make life easier for users?
-- Focused more about the product than about technology, it is important to ask yourself what are we doing? what is the goal of what we are building? to align the vision with the product team.
+- Focused more about the product and business than technology, its important to ask yourself what are we doing? what is the goal of what we are building? to align the vision with the product team.
 - Show them you take responsibility for mistakes.
 - Keep it brief and concise. Try to tell the story in chronological order, too, without having to go back and forward in time repeatedly.
 
