@@ -14,7 +14,7 @@
 - I hope to find myself in an environment where every day is different, where I can work with talented people who are equally motivated and curious, where I can live experiences that allow me to find a better version of myself.
 - I want to be where I can feel comfortable about not having have the perfect answer to questions and being able to have support from my team to keep improving, because nothing is really perfect.
 - I learned to be more careful and not rush my decisions and to speak with others on my team who have more experience if I'm unsure of something.
-- I also realized how important each hiring decision is, which made me a better developer/manager in the last few years of my career.
+- I also realized how important each decision is, which made me a better developer/manager in the last few years of my career.
 - It was a great lesson to learn early in my career.
 
 ## Daily Standup
