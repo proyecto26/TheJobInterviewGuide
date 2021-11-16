@@ -1,7 +1,7 @@
 # Expressions
 
 ## Behavioral
-- As a developer, I look for the opportunity to face new challenges while solving problems, to learn with others along the way.
+- As a developer, I look for the opportunity to face new challenges trying to figure out new and more efficient ways to solve problems with technology, to learn with others along the way.
 - I'm looking to find a better balanced life, where I have the opportunity to spend time with my family, studying and improving.
 - I'm looking to be part of a community where I can meet people, have the opportunity to share ideas, advice and be myself.
 - I'm looking for a culture where I can help making decisions, where my ideas are valuable and appreciated.
