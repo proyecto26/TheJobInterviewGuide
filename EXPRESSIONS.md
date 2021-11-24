@@ -35,6 +35,9 @@
 - I'm here at the mercy of you!
 - Here you go!
 
+## Teamwork
+- We'd like to put this on your plate (Por favor encargate de algo)
+
 ## Confirm
 - I'm aware of that.
 - I got it (Si yo entiendo).
