@@ -23,6 +23,7 @@
 - We're awaiting for response here, so let’s move on to another task
 - I have no blockers from my end
 - That's all from my side
+- That's it from my part
 
 ## Positive comments!
 - Great work so far!
@@ -78,11 +79,12 @@
 - But without success so far
 
 ## Ask for Clarification
-- Can you please be more specific?
-- Can you point me in the right direction?
+- Correct me if I'm wrong...
+- I'm not sure about...
 - I can go into more details if you'd like?
 - Not quite sure what you meant by this...
-- I'm not sure about...
+- Can you please be more specific?
+- Can you point me in the right direction?
 
 ## Questions
 
