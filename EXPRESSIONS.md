@@ -24,6 +24,7 @@
 - I have no blockers from my end
 - That's all from my side
 - That's it from my part
+- I'll keep an eye on it **(me haré a cargo de eso)**
 
 ## Positive comments!
 - Great work so far!
