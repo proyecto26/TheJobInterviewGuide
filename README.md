@@ -81,6 +81,7 @@
 - [Benefits/Perks](https://github.com/proyecto26/TheJobInterviewGuide/blob/main/SALARY_NEGOTIATION.md#benefitsperks)
 - [What are your hourly rate expectations?](https://github.com/proyecto26/TheJobInterviewGuide/blob/main/SALARY_NEGOTIATION.md#what-are-your-hourly-rate-expectations)
 - [Promotions](https://github.com/proyecto26/TheJobInterviewGuide/blob/main/SALARY_NEGOTIATION.md#promotions)
+- [How to Celebrate Success at Work: A Guide for Managers](https://www.leapsome.com/blog/how-to-celebrate-success-at-work)
 - [Credits](https://github.com/proyecto26/TheJobInterviewGuide/blob/main/SALARY_NEGOTIATION.md#credits)
 
 ## Interviewing
