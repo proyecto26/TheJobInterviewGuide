@@ -32,6 +32,7 @@
 - We can’t do this without all of you, great job team!
 - Without of you none of this would be possible today!
 - This is so freaking awesome! We're in business!
+- I celebrate every time I hear about these success stories
 
 ## Helpful
 - I'm here at the mercy of you!
