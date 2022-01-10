@@ -142,7 +142,7 @@
 <details>
   <summary><b>Tell me about a recent situation in which you had to deal with a very upset customer or coworker.</b></summary>
 
-  - Perfect is the enemy of good having strict deadlines
+  - Perfect is the enemy of good having strict deadlines (Done is better than perfect)
 </details>
   
 <details>
@@ -180,7 +180,7 @@
 <details>
   <summary><b>Tell me about a time when you were forced to make an unpopular decision.</b></summary>
   
-  - Not using Redux (Popular State management)
+  - Not using Redux (Popular State management). I'll never know. I got the outcome I wanted, but I might have gotten a better result by handling it differently.
 </details>
   
 <details>
