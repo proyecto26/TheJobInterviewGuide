@@ -97,7 +97,15 @@
 - [Practice live interviews with peers](https://www.pramp.com)
 - [The Interview Cake Course](https://www.interviewcake.com/table-of-contents)
 - [Get your coding skills certified, practice for technical interviews and build your developer resume](https://codesignal.com/developers)
-- 🇪🇸 🇨🇴 [Club de Algoritmia](https://discord.gg/AjExeyh)
+
+## Career Path
+- [freeCodeCamp](https://www.freecodecamp.org/) (Guided bootcamp)
+- [Código Facilito](https://codigofacilito.com/) (Guided bootcamp)
+- [Platzi](https://platzi.com/) (Guided bootcamp & English)
+- [Make It Real](https://makeitreal.camp/) (Optional)
+- [OSSU - Computer Science](https://github.com/ossu/computer-science) (Basic concepts)
+- 🇪🇸 🇨🇴 [Club de Algoritmia](https://discord.gg/AjExeyh) (Algorithms & Mock interviews)
+- [Mentoring](https://www.notion.so/7e03d5ff94c94605a0f148a0e4c7502e?v=3e47d53cf0354755bdd3f6ea5886ab8b) (Adapt your career path)
 
 ## JavaScript Language
 - [Learn JavaScript | MDN](https://developer.mozilla.org/en-US/Learn/JavaScript)
