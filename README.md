@@ -102,7 +102,7 @@
 - [freeCodeCamp](https://www.freecodecamp.org/) (Guided bootcamp)
 - [Código Facilito](https://codigofacilito.com/) (Guided bootcamp)
 - [Platzi](https://platzi.com/) (Guided bootcamp & Learn English)
-- [Codecademy](https://www.codecademy.com/) (Build a career)
+- [Codecademy](https://www.codecademy.com/) (Build a career path)
 - [OSSU - Computer Science](https://github.com/ossu/computer-science) (Basic and Advanced concepts about Computer Science)
 - [Coursera](https://www.coursera.org/) (Build new skills)
 - [Make It Real](https://makeitreal.camp/) (Optional & Get a Job)
