@@ -105,7 +105,7 @@
 - [Make It Real](https://makeitreal.camp/) (Optional)
 - [OSSU - Computer Science](https://github.com/ossu/computer-science) (Basic concepts)
 - 🇪🇸 🇨🇴 [Club de Algoritmia](https://discord.gg/AjExeyh) (Algorithms & Mock interviews)
-- [Mentoring](https://www.notion.so/7e03d5ff94c94605a0f148a0e4c7502e?v=3e47d53cf0354755bdd3f6ea5886ab8b) (Adapt your career path)
+- [Career Growth Mentorships](https://www.notion.so/7e03d5ff94c94605a0f148a0e4c7502e?v=3e47d53cf0354755bdd3f6ea5886ab8b) (Adapt your career path through mentoring)
 
 ## JavaScript Language
 - [Learn JavaScript | MDN](https://developer.mozilla.org/en-US/Learn/JavaScript)
