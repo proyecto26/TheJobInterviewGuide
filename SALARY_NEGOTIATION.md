@@ -37,7 +37,7 @@
 
 > **I need a number to fill a form:** Just put a dollar so we could circle back to that later.
 
-> I am seeking a base pay of $XX,XXX **(HIGHER END OF YOUR RANGE)**, but I can be flexible depending on the benefits and any incentives you may offer.
+> I am seeking a base pay of $XX,XXX **(HIGHER END OF YOUR RANGE)**, but I can be flexible depending on the benefits and any incentives you may offer, please let me know if that salary range works for you.
 
 > Based on my research and the information you have provided, I believe that a salary in the range of $XX,XXX to $XX,XXX with [# of weeks of] paid vacation, [other benefits important to you which have been stated as included], and your other benefits would be appropriate.
 
