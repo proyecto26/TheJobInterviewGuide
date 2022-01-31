@@ -53,3 +53,6 @@
 - [Architect's Guide to Frontend Frameworks](https://youtu.be/HI2vFGxiwkM)
 - [BrowserDiet](https://browserdiet.com) - How to lose weight in the browser
 - [System design: Como empezar el diseño de un sistema](https://youtu.be/kZNr1RfHhow)
+- [AWS Whitepapers & Guides](https://aws.amazon.com/whitepapers/) - AWS technical content authored by AWS and the AWS community (technical guides and reference architecture diagrams).
+- [Browse Azure Architectures](https://docs.microsoft.com/en-us/azure/architecture/browse/) - Architecture diagrams and technology descriptions for reference architectures, real world examples of cloud architectures.
+- [Azure Cloud Design Patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns/) - useful design patterns for building reliable, scalable, secure applications in the cloud.
