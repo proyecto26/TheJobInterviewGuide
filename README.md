@@ -142,6 +142,9 @@
 - [Preparing for Your Initial Interview at Facebook](https://www.facebook.com/careers/FEE-prep-initial)
 - [I interviewed at five top companies in Silicon Valley in five days, and luckily got five job offers](https://medium.com/@XiaohanZeng/i-interviewed-at-five-top-companies-in-silicon-valley-in-five-days-and-luckily-got-five-job-offers-25178cf74e0f)
 - [Software Architecture Books](https://github.com/mhadidg/software-architecture-books) - A comprehensive list of books on Software Architecture.
+- [AWS Whitepapers & Guides](https://aws.amazon.com/whitepapers/) - AWS technical content authored by AWS and the AWS community (technical guides and reference architecture diagrams).
+- [Browse Azure Architectures](https://docs.microsoft.com/en-us/azure/architecture/browse/) - Architecture diagrams and technology descriptions for reference architectures, real world examples of cloud architectures.
+- [Azure Cloud Design Patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns/) - useful design patterns for building reliable, scalable, secure applications in the cloud.
 
 ## Videos
 - [Jackson Gabbard’s Youtube channel](https://www.youtube.com/channel/UCcdCkJKXlRoXVD03eo-q8mQ)
