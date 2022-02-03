@@ -27,11 +27,29 @@
 
 > Thank you, my current salary rate is higher, but you could always call me back at any time if you still think we are a great fit for each other.
 
-> Hello, thanks for reaching me out. The offer you're sharing with me sounds very interesting, unfortunately I'm not open to new offers at the moment. Thanks and let’s keep in touch, I'll reach you out if I happen to change my mind, have a great day!
+> Hello, thanks for reaching me out!  
+The offer you're sharing with me sounds very interesting, but my salary expectations are higher.  
+Thanks for sharing and let's keep in touch for a next opportunity!  
+Have a great day
 
 ## They offer an equal salary
 
 > Thank you, I think we are on the same page in terms of salary ranges but let us circle back to that conversation later after we will check how good is our mutual fit.
+
+## They ask for a call first
+
+> Thanks so much for reaching out. I'm always interested in hearing about what new and exciting opportunities are out there. As a software engineer I'm sure you can imagine that I get a very high volume of recruiters reaching out on LinkedIn. It is a wonderful position of privilege to be in and I'm thankful for it.  
+It does however mean that I don't have the time to hop on a call with everyone who reaches out. A lot of the time, incoming messages represent a very poor fit indeed.  
+I would love to continue the conversation, but before I do, I'd like to level set around the level of seniority that you're looking for.  
+Can you send along the company name, a job description and, total compensation details for the role you're reaching out in reference to?  
+While I very much appreciate the fact that exceptionally talented and engaged recruiters reach out consistently, sorting serious and high quality opportunities from spam would be a full time job without an autoresponder.
+In the absence of detailed information regarding the nature of the opportunity in question, I will be unavailable for further discussion.  
+Thanks again for reaching out!  
+I look forward to hearing from you.
+
+> Hello, hope you're doing well.  
+Sounds interesting, can you share the description of this job opportunity please? And can you tell me about the salary range you have budgeted for this role?  
+Thanks for sharing!
 
 ## They don't offer a salary range
 
@@ -46,8 +64,6 @@
 
 ### Examples
 > Oh, yeah, I was going to ask you, do you know the budget for the role?
-
-> Can you tell me about the salary range you have budgeted for this role?
 
 > You guys know the market and are good at what you do, I trust you to make a great offer if you're interested.
 
@@ -69,7 +85,11 @@
 
 Understand that "your mileage may vary." If the employer isn’t very interested (or has many other people they could hire), they probably won’t do much negotiation. If they are very interested in you, they will negotiate. Many employers expect to negotiate starting salaries. However, some do not want to negotiate and may even withdraw a job offer if pressed for a higher starting salary.
 
-### Benefits/Perks
+## They can't move forward
+
+> Thanks for letting me know, I understand! Thanks for sharing and let's keep in touch!
+
+## Benefits/Perks
 - Signing bonus (only increasing the first year income)
 - Monthly bonuses (Sodexo Pass)
 - Annual, quarterly, or other bonuses
@@ -133,3 +153,4 @@ I'm absolutely comfortable somewhere in the top quartile of my market value. I'm
 - [5 Salary Negotiation Rules for Software Developers](https://dev.to/fullstackcafe/5-salary-negotiation-rules-for-software-developers-get-20-on-top-of-your-market-rate-2jii)
 - [As an interviewee this is the most important thing to remember](https://twitter.com/svpino/status/1289431085525295105)
 - [Spanish: Negociar Sueldo](https://slides.com/xthecapx/negociar-sueldo)
+- [Career Advice Nobody Gave Me: Never Ignore a Recruiter](https://index.medium.com/career-advice-nobody-gave-me-never-ignore-a-recruiter-4474eac9556)
