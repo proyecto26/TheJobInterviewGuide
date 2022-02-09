@@ -30,6 +30,10 @@
   - A PoC with a new technology in a short period of time (StartUp Acquisition)
   - Working in a project with 1 week sprints (working weekends)
   - Excel generation tool migration with a class having more than 30k lines of code and without business formulas.
+    - Situation: Code refactor of a software with more than 10 years in the market, and having classes of more than 30k lines of code, where the client did not know the formulas of the business with which more than 30 different critical excel files were exported.
+    - Task: Looking to improve the UX (performance) for generating these files.
+    - Action: I had to contribute to Open Source and created interfaces to simulate functionalities of a deprecated library. I spent some months working on this migration.
+    - Result: Using benchmarks I was able to compare these tools, and I found some issues during this migration but with the help of these Open Source contributions (reporting issues, discussing and reviewing the code of the external lib) I was able to solve unforeseen problems.
 </details>
     
 <details>
