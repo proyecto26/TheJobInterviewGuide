@@ -199,6 +199,12 @@
   - Being a perfectionist and trying to do everything on my own (not settling for what already exists and works, but trying to improve it)
 </details>
 
+<details>
+  <summary><b>Let's say one of your peers on your team is underperforming. What would you do (if anything)?</b></summary>
+  
+  - Divide complex tasks and help my partner by having peer programming sessions to share knowledge or 1-1 meetings to discuss what I can do to help him/her improve in his/her career, I could help him/her with a mentoring process to define some **KPOs (Key Performance Objectives)** to continue growing and looking for him/her to take on new challenges in the project by delegating.
+</details>
+
 ## Remember
 - Be yourself; mention where I have been wrong, I have failed **(Everyone makes mistakes)** and express the initiatives that I have taken.
 - Talk more about what I did, instead of talking so much about what we did as a team; e.g: I disccused with the manager, I shared a technical presentation with the team and together we managed to decide this. Talk with your team
