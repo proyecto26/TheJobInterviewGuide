@@ -152,5 +152,6 @@ I'm absolutely comfortable somewhere in the top quartile of my market value. I'm
 - [Make me an offer](https://dev.to/jmfayard/what-is-your-salary-expectation-a-i-don-t-have-one-make-me-an-offer-2jaf)
 - [5 Salary Negotiation Rules for Software Developers](https://dev.to/fullstackcafe/5-salary-negotiation-rules-for-software-developers-get-20-on-top-of-your-market-rate-2jii)
 - [As an interviewee this is the most important thing to remember](https://twitter.com/svpino/status/1289431085525295105)
-- [Spanish: Negociar Sueldo](https://slides.com/xthecapx/negociar-sueldo)
 - [Career Advice Nobody Gave Me: Never Ignore a Recruiter](https://index.medium.com/career-advice-nobody-gave-me-never-ignore-a-recruiter-4474eac9556)
+- [Negociar Sueldo](https://slides.com/xthecapx/negociar-sueldo) 🇪🇸 🇨🇴
+- [Como ganar en el juego de la negociación - Harvey Mackay](https://youtu.be/pYoqvMutWNM?t=38) 🇪🇸 🇨🇴
