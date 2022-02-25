@@ -51,6 +51,9 @@ I look forward to hearing from you.
 Sounds interesting, can you share the description of this job opportunity please? And can you tell me about the salary range you have budgeted for this role?  
 Thanks for sharing!
 
+> 🇪🇸 🇨🇴 En el momento me están contactando de varias partes, por lo tanto quisiera saber de inicio cuál es el rango salarial presupuestado para este rol, como sería el tipo de contrato y que beneficios/perks ofrecen ustedes?
+Gracias por compartir!
+
 ## They don't offer a salary range
 
 > **I need a number to fill a form:** Just put a dollar so we could circle back to that later.
