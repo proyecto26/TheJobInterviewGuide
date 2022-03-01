@@ -48,4 +48,5 @@ Sincerely,\
 ## Credits
 - [The Ultimate Software Engineer Resume Guide](https://arc.dev/resume)
 - [Harvard Resumes, CVs, Cover Letters templates](https://ocs.fas.harvard.edu/resumes-cvs-cover-letters)
+- [Harvard Action Verbs](https://ocs.fas.harvard.edu/files/ocs/files/undergrad_resumes_and_cover_letters.pdf?m=1598037165)
 - [The Best Cover Letter Examples for Every Type of Job Seeker](https://www.themuse.com/advice/cover-letter-examples-every-type-job-seeker)
