@@ -68,7 +68,7 @@
 
 ## Cover Letter
 - [Cover Letter Template](https://github.com/proyecto26/TheJobInterviewGuide/blob/main/COVER_LETTER.md#cover-letter)
-- [Resume Template](https://github.com/proyecto26/TheJobInterviewGuide/blob/main/COVER_LETTER.md#resumecv)
+- [CV/Resume Template](https://github.com/proyecto26/TheJobInterviewGuide/blob/main/COVER_LETTER.md#resumecv)
 
 ## Job Career
 - [Introduce yourself](https://github.com/proyecto26/TheJobInterviewGuide/blob/main/JOB_CAREER.md#introduce-yourself)
