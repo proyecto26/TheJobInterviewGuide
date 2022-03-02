@@ -110,6 +110,7 @@
 ### Career Advice
 - 🇪🇸 🇨🇴 [Club de Algoritmia](https://discord.gg/AjExeyh) (Algorithms & Mock interviews)
 - [Career Growth Mentorships](https://www.notion.so/7e03d5ff94c94605a0f148a0e4c7502e?v=3e47d53cf0354755bdd3f6ea5886ab8b) (Adapt your career path through FREE mentoring)
+- [1:1 Questions](https://github.com/proyecto26/TheJobInterviewGuide/blob/main/1_1_QUESTIONS.md) (One-on-One Meetings for career and professional development opportunities)
 
 ## JavaScript Language
 - [Learn JavaScript | MDN](https://developer.mozilla.org/en-US/Learn/JavaScript)
