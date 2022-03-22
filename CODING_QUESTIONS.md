@@ -1,11 +1,12 @@
 ## Key points
-- Drive the interview
-- Explored the problem
-- Reason about your decisions
-- Think about trade-offs
-- Long Story short
-- Be quick the 2 problems has to solve in 30 minutes 
-- Break down the problem into logical chunks and solved them
+Key points to be successful in the coding interview:
+* Drive the interview; communication is more important than anything so If you need to be quiet to think, that’s great – just let the interviewer know. 
+* Explored the problem; Talk about what you are doing throughout the interview.
+* Reason about your decisions and share your reasoning.
+* Think about trade-offs; Find and fix the bugs by yourself.
+* Practice under time pressure; Put yourself under time constraints and If possible, have a mock interview with a friend to simulate the interview experience.
+* Manage Your Time Effectively; start writing a working solution, then iterate and improve it as you go.
+* Break down the problem into logical chunks and solved them
 
 ## Strings
 - What format is the word/values given to us?
