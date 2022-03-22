@@ -16,6 +16,7 @@
 
 ## Behavioral Interview
 - [The STAR Method](https://github.com/proyecto26/TheJobInterviewGuide/blob/main/BEHAVIORAL_CONCEPTS.md)
+- [Remember](https://github.com/proyecto26/TheJobInterviewGuide/blob/main/BEHAVIORAL_QUESTIONS.md#remember)
 - [Questions](https://github.com/proyecto26/TheJobInterviewGuide/blob/main/BEHAVIORAL_QUESTIONS.md)
 
 ## Coding Interview
@@ -39,6 +40,8 @@
 - [Search](https://github.com/proyecto26/TheJobInterviewGuide/blob/main/CODING_EXERCISES.md#search)
 - [Optimization](https://github.com/proyecto26/TheJobInterviewGuide/blob/main/CODING_EXERCISES.md#optimization)
 - [Real Life problems](https://github.com/proyecto26/TheJobInterviewGuide/blob/main/CODING_EXERCISES.md#real-life-problems)
+- [Remember](https://github.com/proyecto26/TheJobInterviewGuide/blob/main/CODING_EXERCISES.md#remember)
+- [Credits](https://github.com/proyecto26/TheJobInterviewGuide/blob/main/CODING_EXERCISES.md#credits)
 
 ### Questions
 - [Key points](https://github.com/proyecto26/TheJobInterviewGuide/blob/main/CODING_QUESTIONS.md#key-points)
