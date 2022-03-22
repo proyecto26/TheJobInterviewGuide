@@ -123,13 +123,6 @@ Starts at the root node and explores as far as possible along each branch before
 #### Breadth-first search (BFS)
 Starts at the tree root and explores all of the neighbor nodes at the present depth prior to moving on to the nodes at the next depth level, with a BFS you push the children onto the end of a queue, so they will be popped and processed after everything else. It's easily implemented via a queue, including corecursively.
 
-## Remember
-Key points to be successful in the coding exercise:
-* Drive the interview
-* Explored the problem
-* Reason about your decisions
-* Think  about trade-offs
-
 ## Credits:
 - [Tech Interview Handbook](https://yangshun.github.io/tech-interview-handbook)
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university)
