@@ -546,15 +546,6 @@ function findDuplicateTransactions (transactions = []) {
 }
 ```
 
-## Remember
-Key points to be successful in the coding exercise:
-* Drive the interview; communication is more important than anything so If you need to be quiet to think, that’s great – just let the interviewer know. 
-* Explored the problem; Talk about what you are doing throughout the interview.
-* Reason about your decisions and share your reasoning.
-* Think about trade-offs; Find and fix the bugs by yourself.
-* Practice under time pressure; Put yourself under time constraints and If possible, have a mock interview with a friend to simulate the interview experience.
-* Manage Your Time Effectively; start writing a working solution, then iterate and improve it as you go.
-
 ## Credits
 - [Jackson Gabbard’s Youtube channel](https://www.youtube.com/channel/UCcdCkJKXlRoXVD03eo-q8mQ)
 - [Power set](https://en.wikipedia.org/wiki/Power_set)
