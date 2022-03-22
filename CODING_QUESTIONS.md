@@ -1,3 +1,16 @@
+# Coding Questions
+
+- Don't jump straight into coding, take a few mins to understand the problem and ask any clarifying questions **(but not too long)**.
+- Describe your solution to your interviewer and get their thoughts on your solution.
+- Think about your algorithm(s) (sorting, divide-and-conquer, dynamic programming/memorization, recursion, etc),
+including the complexity and approximate runtime. Ask the interviewer if it's ok or if you should think about something more optimized. Then figure out your data structure (Array, Stack, Queue, Hashset/Hashmap/Hashtable/Dictionary, Tree/Binary Tree, Heap, Graph, Bloom Filter, etc) and implement.
+- Importantly, after you have finished writing your code, run through it verbally with your interviewer. This is really important at this point. Does it really do what you think it does? Make sure to read what is there, not what you think is there.
+- Test your code, put in an input to see what happens. We’re looking for you to find the bugs yourself and fix anything that comes up
+- Restate the complexity. Is it the same, or different to your initial thinking based on what you have actually coded up? Make sure you’re thinking about both space and time
+- Optimize. Proactively suggest ways to optimize to the interviewer and get their feedback to ensure what you’re trying to do is not overly complex and is correct, then code it up.
+
+> Write a simple clean bug free and not over engineering/over complicated code – it's better a simple code that works that an overcomplicated code that doesn’t work – *the simple the better*.
+
 ## Key points
 Key points to be successful in the coding interview:
 * Drive the interview; communication is more important than anything so If you need to be quiet to think, that’s great – just let the interviewer know. 
