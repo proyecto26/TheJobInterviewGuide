@@ -47,6 +47,9 @@ Key points to be successful in the coding interview:
 - Can I try that approach?
 - Will I be able to code this approach?
 - How can I improve this approach?
+- Ask lots of questions, clarify the problem, make sure you know exactly what they are asking you to do and or solve.
+- Think out loud: explain your thought process, explain the different ways you are attempting to solve the problem, you need to verbally map out your solutions so the interviewer can understand your thought process. Also, the more the you talk and explain you approaches, the more the interviewer can provide subtle hints on what they are looking for.
+- Lastly, turn your verbal solution, into good, clean, concise, bug free code checking for edge cases and corner cases, and even putting together a manual use case if you have time.
 
 ## Credits:
 - [AlgosMed](https://discord.gg/ttMu5az6wM) - Mocking interviews, algorithms, etc
