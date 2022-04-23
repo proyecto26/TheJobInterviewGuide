@@ -268,37 +268,39 @@ I'm very responsible, reliable and disciplined person.
 
 ## Questions for us?
 
+- What would a normal day of work be like at your company?
+- What is the interaction like?
+- What's a typical day like?
 - How does that balance with life?
 - How much of my life do you expect me to be here? (Horas nalgas o por objetivos)
+- What's the work expectation here?
 - What are the key responsabilities for the job?
 - What can you tell me about your plans for growth?
 - What's your favorite part about working here?
 - What do you like most about working here?
+- How would you describe the engineering culture here?
 - What's the culture at your company like?
-- What's the work expectation here?
-- What would a normal day of work be like at your company?
-- What is the interaction like?
 - How does project planning happen on the team?
 - How much did the people on the teams tend to work?
-- What's a typical day like?
 - What other projects are you currently working on?
 - How does the reward structure work?
-- Was this an efficient discussion? (Request feedback)
-- If I have any other questions that I can't think of now, will I be able to email you or give you a call?
-- I'm very interested in scalability, and I'd love to learn more about it. What opportunities are there at this company to learn about this?
-- I'm not familiar with technology X, but it sounds like a very interesting solution. Could you tell me a bit more about how it works?
-- what makes this company different from its competitors?
+- What has been the biggest technical challenge you have faced lately?
+- Do you feel like you have good growth opportunities here?
 - About opportunities, if I excel, what would I be doing next year?
+- Was this an efficient discussion? (Request feedback)
+- what makes this company different from its competitors?
 - About careers, do I have a mentor? how does training look like?
 - How did you come to work here?
-- What do you like the most about working here?
 - Who's the most successful hire here recently and why?
 - Who did not succeed as a hire and why?
 - What's the company's biggest challenge this year and how will you help to overcome it?
 - How will I measure my performance so I know that I will have a positive impact on this challenge?
 - What kind of skills and additional experience you wish I had that would make me a better fit for this job?
 - What are the next steps in the process?
-- Do you use third party packages or you write everything from scratch?
+- Do you use third party packages or you write everything from scratch? (licenses management)
+- If I have any other questions that I can't think of now, will I be able to email you or give you a call?
+- I'm very interested in scalability, and I'd love to learn more about it. What opportunities are there at this company to learn about this?
+- I'm not familiar with technology X, but it sounds like a very interesting solution. Could you tell me a bit more about how it works?
 
 ## Tips
 - Ask for clarification if you're not sure about something
