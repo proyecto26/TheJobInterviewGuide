@@ -32,6 +32,10 @@ The offer you're sharing with me sounds very interesting, but my salary expectat
 Thanks for sharing and let's keep in touch for a next opportunity!  
 Have a great day
 
+> 🇪🇸 🇨🇴 Hola, gracias por compartir
+Realmente el rango salarial está por debajo de mis expectativas, de todas formas gracias por contactarme y espero que podamos seguir en contacto para una próxima oportunidad!
+Feliz día 🙂
+
 ## They offer an equal salary
 
 > Thank you, I think we are on the same page in terms of salary ranges but let us circle back to that conversation later after we will check how good is our mutual fit.
@@ -61,6 +65,9 @@ Gracias por compartir!
 > I am seeking a base pay of $XX,XXX **(HIGHER END OF YOUR RANGE)**, but I can be flexible depending on the benefits and any incentives you may offer, please let me know if that salary range works for you.
 
 > Based on my research and the information you have provided, I believe that a salary in the range of $XX,XXX to $XX,XXX with [# of weeks of] paid vacation, [other benefits important to you which have been stated as included], and your other benefits would be appropriate.
+
+> 🇪🇸 🇨🇴 Hola! entiendo completamente, actualmente mi aspiración salarial es de $XXXXXX USD en adelante **(El valor más alto de tu rango)**, pero soy flexible dependiendo de los beneficios que ustedes ofrezcan, déjame saber si este rango salarial está bien para ustedes.
+
 
 ## “What is your current salary?”
 - [It's a red flag](https://dev.to/jmfayard/what-is-your-current-salary-is-a-red-flag-that-you-don-t-want-to-work-here-3aji)
