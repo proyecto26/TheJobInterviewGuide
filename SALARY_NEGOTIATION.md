@@ -32,8 +32,8 @@ The offer you're sharing with me sounds very interesting, but my salary expectat
 Thanks for sharing and let's keep in touch for a next opportunity!  
 Have a great day
 
-> 🇪🇸 🇨🇴 Hola, gracias por compartir
-Realmente el rango salarial está por debajo de mis expectativas, de todas formas gracias por contactarme y espero que podamos seguir en contacto para una próxima oportunidad!
+> 🇪🇸 🇨🇴 Hola, gracias por compartir! 
+Realmente el rango salarial está por debajo de mis expectativas, de todas formas gracias por contactarme y espero que podamos seguir en contacto para una próxima oportunidad! 
 Feliz día 🙂
 
 ## They offer an equal salary
