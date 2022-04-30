@@ -108,6 +108,7 @@
 - [OSSU - Computer Science](https://github.com/ossu/computer-science) (Basic and Advanced concepts about Computer Science)
 - [Coursera](https://www.coursera.org/) (Build new skills)
 - [Make It Real](https://makeitreal.camp/) (Optional & Get a Job)
+- [DevProjects by Codementor](https://www.codementor.io/projects) (Learn programming by building open source projects)
 
 ### Career Advice
 - 🇪🇸 🇨🇴 [Club de Algoritmia](https://discord.gg/AjExeyh) (Algorithms & Mock interviews)
