@@ -72,6 +72,10 @@
 - [Cover Letter Template](https://github.com/proyecto26/TheJobInterviewGuide/blob/main/COVER_LETTER.md#cover-letter)
 - [CV/Resume Template](https://github.com/proyecto26/TheJobInterviewGuide/blob/main/COVER_LETTER.md#resumecv)
 
+## Job Offers
+- [Accept a Job Offer - Email Template](https://github.com/proyecto26/TheJobInterviewGuide/blob/main/JOB_OFFERS.md#accept-a-job-offer-email-template)
+- [Reject a Job Offer - Email Template](https://github.com/proyecto26/TheJobInterviewGuide/blob/main/JOB_OFFERS.md#reject-a-job-offer-email-template)
+
 ## Job Career
 - [Introduce yourself](https://github.com/proyecto26/TheJobInterviewGuide/blob/main/JOB_CAREER.md#introduce-yourself)
 - [Experience](https://github.com/proyecto26/TheJobInterviewGuide/blob/main/JOB_CAREER.md#experience)
