@@ -34,11 +34,7 @@ I've received a better offer that I can't refuse. I truly appreciate the offer a
 - Better Role:
 I've accepted another position that aligns more with my professional career goals. I sincerely appreciate the offer and want to express my gratitude for the chance to meet your team. But after careful consideration, I know this opportunity isn't the right fit for my career trajectory. 
 
-- Option A:
 Thank you again for your time and I wish you all the best in finding someone suitable for the position.
-
-- Option B:
-Thanks again for your time and offer. I wish you the best of luck in your search for a great professional for this role.
 
 Kind regards,\
 **[Name]**\
