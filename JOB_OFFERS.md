@@ -1,6 +1,6 @@
-# Email Templates for Job Offers
+# Job Offers
 
-## Accept a Job Offer
+## Accept a Job Offer (Email Template)
 
 **Dear [Contact/Team Name]**
 
@@ -19,7 +19,7 @@ Sincerely,\
 **[Email]**\
 **[Phone Number]**
 
-## Reject a Job Offer
+## Reject a Job Offer (Email Template)
 
 Hello folks at **[Company Name]**, hope you're doing well
 
