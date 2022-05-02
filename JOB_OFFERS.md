@@ -36,7 +36,7 @@ I've accepted another position that aligns more with my professional career goal
 
 Thank you again for your time and I wish you all the best in finding someone suitable for the position.
 
-Kind regards,\
+Best wishes,\
 **[Name]**\
 **[Email]**\
 **[Phone Number]**
