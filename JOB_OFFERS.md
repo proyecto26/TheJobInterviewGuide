@@ -24,11 +24,21 @@ Sincerely,\
 Hello folks at **[Company Name]**, hope you're doing well
 
 Thank you very much for offering me the position of **[Role Name]** at **[Company Name]**.
-I appreciate the time of your team spent meeting with me to discuss the job. 
+I've enjoyed learning more about the role, the organization, and the company culture.
 
-Unfortunately, I have decided not to accept the position because I received an offer from another company.
-I truly appreciate the offer and your consideration.
+After careful consideration, I have come to a difficult decision. Unfortunately, I have to decline this opportunity, although it is interesting. 
+
+- Better Offer:
+I've received a better offer that I can't refuse. I truly appreciate the offer and your consideration.
+
+- Better Role:
+I've accepted another position that aligns more with my professional career goals. I sincerely appreciate the offer and want to express my gratitude for the chance to meet your team. But after careful consideration, I know this opportunity isn't the right fit for my career trajectory. 
+
+- Option A:
 Thank you again for your time and I wish you all the best in finding someone suitable for the position.
+
+- Option B:
+Thanks again for your time and offer. I wish you the best of luck in your search for a great professional for this role.
 
 Kind regards,\
 **[Name]**\
