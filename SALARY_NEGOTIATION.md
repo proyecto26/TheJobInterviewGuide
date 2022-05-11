@@ -52,10 +52,10 @@ Thanks again for reaching out!
 I look forward to hearing from you.
 
 > Thank you for contacting me. 
-It sounds very interesting. Can you tell me about the salary range you have budgeted for this role?
+It sounds very interesting. 
 
 > Hello, hope you're doing well.  
-Sounds interesting, can you share the description of this job opportunity please? I would like to know what the salary range is for this position and what other things might be open to negotiation besides the base salary? For example, would you be amenable to offer a sign-on bonus?  
+Sounds interesting, can you share the description of this job opportunity please? And can you tell me about the salary range you have budgeted for this role?  
 Thanks for sharing!
 
 > 🇪🇸 🇨🇴 En el momento me están contactando de varias partes, por lo tanto quisiera saber de inicio cuál es el rango salarial presupuestado para este rol, como sería el tipo de contrato y que beneficios/perks ofrecen ustedes?
@@ -77,6 +77,8 @@ Gracias por compartir!
 
 ### Examples
 > Oh, yeah, I was going to ask you, do you know the budget for the role?
+
+> What other things might be open to negotiation besides the base salary? For example, would you be amenable to offer a sign-on bonus?
 
 > You guys know the market and are good at what you do, I trust you to make a great offer if you're interested.
 
