@@ -55,7 +55,7 @@ I look forward to hearing from you.
 It sounds very interesting. Can you tell me about the salary range you have budgeted for this role?
 
 > Hello, hope you're doing well.  
-Sounds interesting, can you share the description of this job opportunity please? I would like to know what the salary range is for this position and what other things might be open to negotiation besides the base salary? For example, would you be amenable to a sign-on bonus?  
+Sounds interesting, can you share the description of this job opportunity please? I would like to know what the salary range is for this position and what other things might be open to negotiation besides the base salary? For example, would you be amenable to offer a sign-on bonus?  
 Thanks for sharing!
 
 > 🇪🇸 🇨🇴 En el momento me están contactando de varias partes, por lo tanto quisiera saber de inicio cuál es el rango salarial presupuestado para este rol, como sería el tipo de contrato y que beneficios/perks ofrecen ustedes?
