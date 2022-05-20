@@ -51,6 +51,7 @@
 - [Backend](https://github.com/proyecto26/TheJobInterviewGuide/blob/main/CODING_QUESTIONS.md#backend)
 
 ### Platforms
+- [Codility Developer Training](https://app.codility.com/programmers/lessons/1-iterations/)
 - [Leetcode](https://leetcode.com/problemset/all)
 - [HackerRank](https://www.hackerrank.com/interview/interview-preparation-kit)
 - [CareerCup](https://www.careercup.com/page?pid=facebook-interview-questions)
