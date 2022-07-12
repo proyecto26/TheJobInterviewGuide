@@ -26,6 +26,12 @@
 - That's it from my part
 - I'll keep an eye on it **(me haré a cargo de eso)**
 
+## Meetings
+- How's it going?
+- Can you believe this weather? It's awful!
+- Sorry, I've got to run. Talk to you soon.
+- I should get going. I'll call you later.
+
 ## Positive comments!
 - Great work so far!
 - I couldn't be more excited to be here!
