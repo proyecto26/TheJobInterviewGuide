@@ -5,8 +5,18 @@
 - Tell me about a time where you made a mistake in a previous project/job.
 - Describe a situation where you had to complete a task/goal, and you could achieve it.
 - Give me an example of a time when you disagreed with a colleague.
+- Is there something you would like to ask?
+- What have you done in the last 3 jobs?
+- What is your experience working for startups?
+- What are your expectations in general for your new job?
 - Tell me about a time when you had to provide constructive feedback to a team member.
-- Prepare sticky notes.
+- From the technical perspective:
+  - How do you want to be managed?
+  - Which challenges are you expecting to be facing here?
+  - What are your 3 motivations to join this project?
+
+
+> Prepare sticky notes.
 
 ## Examples
 
