@@ -104,6 +104,7 @@
 - [Practice live interviews with peers](https://www.pramp.com)
 - [The Interview Cake Course](https://www.interviewcake.com/table-of-contents)
 - [Get your coding skills certified, practice for technical interviews and build your developer resume](https://codesignal.com/developers)
+- [Meetapro: Mock interviews with experienced FAANG interviewers](https://meetapro.com/?utm_source=tjiggithub)
 
 ## Career Path
 - [freeCodeCamp](https://www.freecodecamp.org/) (Guided bootcamp)
