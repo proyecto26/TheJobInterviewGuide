@@ -43,6 +43,7 @@
 ## Helpful
 - I'm here at the mercy of you!
 - Here you go!
+- It ain’t much, but it’s honest work
 
 ## Teamwork
 - We'd like to put this on your plate (Por favor encargate de algo)
