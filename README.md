@@ -114,6 +114,7 @@
 - [Coursera](https://www.coursera.org/) (Build new skills)
 - [DevProjects by Codementor](https://www.codementor.io/projects) (Learn programming by building open source projects)
 - [Make It Real](https://makeitreal.camp/) (Optional & Get a Job)
+- [Programiz PRO](https://programiz.pro/) (Offers curated Learning Paths with interactive courses, challenge courses, and interview preparation courses)
 
 ### Career Advice
 - [Arc](https://arc.dev/get-featured?ref=fd-jdnichollsc) (Get a Remote Job)
