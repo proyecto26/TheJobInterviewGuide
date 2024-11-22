@@ -1,34 +1,31 @@
 ## Introduce yourself
 
 ### Personal
-I'm J.D Nicholls and I'm from Medellin, Colombia 🇨🇴
+Hi, I’m J.D. Nicholls, a passionate software developer from Medellín, Colombia 🇨🇴.
 
-I am the kind of person who loves to solve problems with technology, learn new ways to optimize processes, and create open source projects that can change the world by connecting people with small contributions.
-I am also a developer who likes to work in collaboration, being part of a team and engage everyone to share knowledge, the passion to create new things with code and find better ways to solve problems while we're working together to create solutions that can be used around the world and reach millions of people.
+I thrive on solving problems through technology, optimizing processes, and creating open-source projects that connect people and make a difference in the world. I’m driven by the belief that small contributions can lead to meaningful change, and my work reflects this commitment to innovation and collaboration.
 
-Known for be a disciplined, organized, humble and righteous person. Committed to good morals, continuous learning, innovation and development of optimal solutions.
+As a developer, I value teamwork and the exchange of knowledge. I love being part of a team where we can create impactful solutions together, share a passion for coding, and continuously improve our approaches to solving challenges. My goal is to develop technologies that are not only effective but also accessible and impactful, reaching millions of users worldwide.
 
-I had always wanted to travel around the world, to meet people, participate in community and collaborate with others. It was one of my dreams so I decided to start working remotely few years ago in order to have the possibility to travel and to meet different cultures, so thats what I have been doing for the last years to be prepared for new experiences.
+I’m known for being disciplined, organized, humble, and committed to ethical values. I embrace continuous learning, innovation, and the pursuit of optimal solutions, all while maintaining a strong focus on integrity and excellence.
 
-I believe anyone can be successful if they try hard enough.
+One of my dreams has always been to travel the world, meet new people, and immerse myself in different cultures. To make this a reality, I began working remotely several years ago, allowing me to explore new places while collaborating with diverse teams. These experiences have prepared me for exciting new opportunities and challenges.
+
+I firmly believe that anyone can achieve success with dedication and effort. I’m excited to continue growing, learning, and contributing to projects that make a real impact.
 
 ### Professional
 
-I work as a Frontend developer at S4N, specially working for Nordstrom in their Employee Selling Tools as a Team Leader.
-I have 8 years of experience working as Software developer, I've experience playing different roles as Frontend, Backend and Software Architect.
+I am an experienced Full-Stack Developer, Open Source Contributor and Chainlink Developer Expert with over 12 years of expertise spanning web, mobile, game, blockchain, and cloud development. My career has been defined by building scalable architectures, delivering seamless user experiences, and driving innovation through cutting-edge technologies and Open Source contributions.
 
-#### Work History
+As the first Founding Full-Stack Engineer at BAXUS, I established the foundational architecture for their marketplace and mobile app, working closely with the CTO and Head of Business. My contributions included building scalable frontend solutions with React, RemixJS, and Nx, implementing Temporal workflows for orchestrating microservices, and leveraging Docker for streamlined deployments. I also played a key role in the integration of Solana blockchain technologies, enabling secure and transparent transactions, and enhancing the onboarding experience for Web2 to Web3 users through providers like Web3Auth and Magic.link.
 
-In college, I studied Software Engineering at Universidad de Medellin (UdeM), then I had the opportunity to work as a Backend developer when I was finishing my bachelor's degree. During my first job I had the chance to work with awesome designers, using agile methodologies like pair programming sessions for creating web sites and social games. With this experience, I started working as a Frontend developer, creating better interactive experiences for almost 2 years.
+Prior to BAXUS, I worked as a Frontend Developer and Team Leader at S4N/Nordstrom, focusing on Employee Selling Tools. I led a team in developing the modular mobile app Nordstrom ON, which enabled employees to generate $4M+ in sales during special events. My role involved designing user-centric interfaces, optimizing app performance, and ensuring seamless collaboration across teams to meet Nordstrom’s high standards for usability and scalability.
 
-Then I worked for 1 year as a Team leader helping other teams using Microsoft technologies.
+After my time at S4N/Nordstrom, I joined Zagalabs, where I played a pivotal role in refactoring Angular/NgRx codebases and developing microservices integrated with third-party providers like Uber Eats. My contributions improved code reusability across web and mobile platforms while enhancing the overall user experience. Additionally, I delivered scalable cloud solutions that streamlined operations and supported business growth.
 
-Later I worked for almost 2 years as a Backend and Full Stack developer at Yuxi Pacific, during this time I become a Team leader again and I designed the baseline for cross-platform mobile applications using new technologies (Cordova, Ionic), with these results the company became an **Ionic Trusted Partner**.
+As the creator of Proyecto26, my Open Source organization, I have developed tools like Rest Client for Unity, InAppBrowser for NativeScript, and React Native, with millions of downloads globally, empowering developers worldwide. My passion for sharing knowledge has led me to speak at international events like CityJS, JSConf, and Microsoft DevDays, and mentor local communities such as CodeYourFuture, ColombiaDev, and MedellinJS.
 
-Then I worked for a brief as a Software Architect where I helped to define architectural baselines for the development of reactive applications using new technologies (MeteorJS and NodeJS).
-
-In my current job, I had the opportunity to start working for a Startup called **BevyUp** that later was acquired by **Nordstrom**, and with that acquisition I started working at Seven4n.
-I was responsible for researching new Frontend technologies, migrate apps using deprecated frameworks (AngularJS, Ionic 1) and then I've accomplished to define a modular architecture with **React Native** that allows multiple teams work in the same project adding new features at the same time.
+My mission is to use technology to solve complex challenges, create meaningful solutions, and inspire innovation in every project I work on. 
 
 ### Hobbies
 - Making 2d games (Video games)
