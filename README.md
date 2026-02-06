@@ -113,6 +113,9 @@ Use these prompts in sequence to prepare for your next interview:
 - [Introduce yourself](https://github.com/proyecto26/TheJobInterviewGuide/blob/main/JOB_CAREER.md#introduce-yourself)
 - [Experience](https://github.com/proyecto26/TheJobInterviewGuide/blob/main/JOB_CAREER.md#experience)
 - [Do you have Questions for us?](https://github.com/proyecto26/TheJobInterviewGuide/blob/main/JOB_CAREER.md#questions-for-us)
+## Job Interview
+- 🇺🇸 [Job Interview](https://github.com/proyecto26/TheJobInterviewGuide/blob/main/JOB_INTERVIEW_EN.md)
+- 🇨🇴 [Entrevista de Trabajo](https://github.com/proyecto26/TheJobInterviewGuide/blob/main/JOB_INTERVIEW_ES.md)
 
 ## Salary Negotiation
 - [What is your current salary?](https://github.com/proyecto26/TheJobInterviewGuide/blob/main/SALARY_NEGOTIATION.md#what-is-your-current-salary)
