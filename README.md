@@ -9,6 +9,30 @@
 
 > Based on the [Gist](https://gist.github.com/jdnichollsc/b9bedff406b54c3ae2cd651512683b51), thanks to everyone who collaborated in this project! <3
 
+## HIRED! How to Get a Job in 2026
+
+A proven methodology to stand out in the AI era. **"Prepare Deeper, Not Faster"** - AI is not a shortcut, it's an amplifier for those who truly prepare.
+
+### Guides
+
+- 🇺🇸 [How to Get a Job in 2026](guides/GET_A_JOB_EN.pdf)
+- 🇨🇴 [Como Conseguir Trabajo en 2026](guides/GET_A_JOB_ES.pdf)
+
+### Prompts (The 6 Phases)
+
+Use these prompts in sequence to prepare for your next interview:
+
+| Phase | Prompt | ES | EN |
+|---|---|---|---|
+| 1. Build Your Arsenal | Prepare a reusable Open Source template before you need it | [ES](prompts/template/ES.md) | [EN](prompts/template/EN.md) |
+| 2. Document Your Process | Record a Loom video showing your mental process, not just the result | [ES](prompts/video/ES.md) | [EN](prompts/video/EN.md) |
+| 3. Communicate with Confidence | Draft professional messages that show confidence, not desperation | [ES](prompts/communication/ES.md) | [EN](prompts/communication/EN.md) |
+| 4. Deep Research | Research the company like you're writing a scientific paper | [ES](prompts/research/ES.md) | [EN](prompts/research/EN.md) |
+| 5. Know Your Interviewer | Research the interviewer to find genuine connection points | [ES](prompts/interviewer/ES.md) | [EN](prompts/interviewer/EN.md) |
+| 6. Visual Demonstration | Create visuals (comics, diagrams, architecture) that prove you understand the business | [ES](prompts/visual-demo/ES.md) | [EN](prompts/visual-demo/EN.md) |
+
+> Use AI skills/plugins like [sherlock-ai-plugin](https://github.com/proyecto26/sherlock-ai-plugin) to generate comics and other visual elements. Use the [ProjectX](https://github.com/proyecto26/projectx) template as a starting point for Phase 1.
+
 ## Practice
 
 - [English useful expressions](https://github.com/proyecto26/TheJobInterviewGuide/blob/main/EXPRESSIONS.md)
