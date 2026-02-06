@@ -1,6 +1,6 @@
 # Video del Proceso Mental
 
-> **Fase 2 de la guia [HIRED! How to Get a Job in 2026](../../guides/GET_A_JOB_EN.pdf):** Documenta tu proceso, no solo el resultado.
+> **Fase 2 de la guía [HIRED! How to Get a Job in 2026](../../guides/GET_A_JOB_EN.pdf):** Documenta tu proceso, no solo el resultado.
 
 ```
 Acabo de completar una prueba técnica para <COMPANY_NAME> y quiero grabar un video
