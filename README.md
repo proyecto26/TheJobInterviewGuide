@@ -109,10 +109,6 @@ Use these prompts in sequence to prepare for your next interview:
 - [Accept a Job Offer - Email Template](https://github.com/proyecto26/TheJobInterviewGuide/blob/main/JOB_OFFERS.md#accept-a-job-offer-email-template)
 - [Reject a Job Offer - Email Template](https://github.com/proyecto26/TheJobInterviewGuide/blob/main/JOB_OFFERS.md#reject-a-job-offer-email-template)
 
-## Job Career
-- [Introduce yourself](https://github.com/proyecto26/TheJobInterviewGuide/blob/main/JOB_CAREER.md#introduce-yourself)
-- [Experience](https://github.com/proyecto26/TheJobInterviewGuide/blob/main/JOB_CAREER.md#experience)
-- [Do you have Questions for us?](https://github.com/proyecto26/TheJobInterviewGuide/blob/main/JOB_CAREER.md#questions-for-us)
 ## Job Interview
 - 🇺🇸 [Job Interview](https://github.com/proyecto26/TheJobInterviewGuide/blob/main/JOB_INTERVIEW_EN.md)
 - 🇨🇴 [Entrevista de Trabajo](https://github.com/proyecto26/TheJobInterviewGuide/blob/main/JOB_INTERVIEW_ES.md)
