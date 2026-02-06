@@ -1,6 +1,6 @@
-# Comunicacion con el Reclutador
+# Comunicación con el Reclutador
 
-> **Fase 3 de la guia [HIRED! How to Get a Job in 2026](../../guides/GET_A_JOB_EN.pdf):** Comunica con confianza, no con necesidad.
+> **Fase 3 de la guía [HIRED! How to Get a Job in 2026](../../guides/GET_A_JOB_EN.pdf):** Comunica con confianza, no con necesidad.
 
 ```
 Estoy en un proceso de entrevista con <COMPANY_NAME> y necesito comunicarme con el
