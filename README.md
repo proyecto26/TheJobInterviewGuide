@@ -15,8 +15,16 @@ A proven methodology to stand out in the AI era. **"Prepare Deeper, Not Faster"*
 
 ### Guides
 
-- 🇺🇸 [How to Get a Job in 2026](guides/GET_A_JOB_EN.pdf)
-- 🇨🇴 [Como Conseguir Trabajo en 2026](guides/GET_A_JOB_ES.pdf)
+<table>
+  <tr>
+    <td>
+      <img width="605" height="904" alt="How to Get a Job in 2026?" src="https://github.com/user-attachments/assets/965dd6f0-18fa-4d1e-8077-3dc9fa103b65" />
+    </td>
+    <td>
+      <img width="605" height="905" alt="Cómo Conseguir Trabajo en 2026?" src="https://github.com/user-attachments/assets/f88209e3-57fb-480e-9845-e313597a24c6" />
+    </td>
+  </tr>
+</table>
 
 ### Prompts (The 6 Phases)
 
