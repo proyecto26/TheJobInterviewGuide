@@ -1,6 +1,6 @@
 # Investigacion Profunda de Empresa
 
-> **Fase 4 de la guia [HIRED! How to Get a Job in 2026](../../guides/GET_A_JOB_EN.pdf):** Investiga como si ya fueras parte del equipo.
+> **Fase 4 de la guía [HIRED! How to Get a Job in 2026](../../guides/GET_A_JOB_EN.pdf):** Investiga como si ya fueras parte del equipo.
 
 ```
 Quiero que investigues todo acerca de <COMPANY_NAME> en los siguientes enlaces:
@@ -16,22 +16,22 @@ clientes/usuarios, que problemas realmente soluciona, cual es su elemento difere
 ademas de sus valores como empresa, y todo lo que me sirva para estar preparado para
 tener una entrevista con ellos.
 
-Revisa LinkedIn, publicaciones recientes y miembros del equipo para entender la vision
-general. Identifica un valor especifico de la compania o un logro de algun miembro
+Revisa LinkedIn, publicaciones recientes y miembros del equipo para entender la visión
+general. Identifica un valor específico de la compañía o un logro de algún miembro
 para mencionarlo.
 
 Este es el perfil del entrevistador de esa empresa:
 
 INTERVIEWER_PROFILE_DESCRIPTION
 
-Por favor usa todas tus habilidades de aprendizaje/investigacion/deep-research para
-entender mas sobre esta empresa, y despues vamos a crear un documento como un paper
-cientifico sobre la empresa, el problema, la solucion y el modelo que proponen/ofrecen
+Por favor usa todas tus habilidades de aprendizaje/investigación/deep-research para
+entender mas sobre esta empresa, y despues vamos a crear un documento como si fuera un paper
+científico sobre la empresa, el problema, la solución y el modelo que proponen/ofrecen
 con sus herramientas.
 
-El paper debe cubrir: el problema de la industria (antes/despues), la propuesta de
+El paper debe cubrir: el problema de la industría (antes/despues), la propuesta de
 valor (beneficio/impacto), el diferenciador clave vs competidores, alianzas/partners
-estrategicos que tienen o podrian tener para escalar, y el tipo de cultura que
+estratégicos que tienen o podrían tener para escalar, y el tipo de cultura que
 promueven; para que honestamente pueda evaluar si esto es un fit genuino para mi
-como candidato tambien.
+como candidato también.
 ```
