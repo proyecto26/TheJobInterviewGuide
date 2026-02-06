@@ -5,7 +5,7 @@
 - I'm looking to find a better balanced life, where I have the opportunity to spend time with my family, studying and improving.
 - I'm looking to be part of a community where I can meet people, have the opportunity to share ideas, advice and be myself.
 - I'm looking for a culture where I can help making decisions, where my ideas are valuable and appreciated.
-- I'm looking for the opportunity to work in an open, inclusive team, and always ready to overcome any challenge, where everybody is very supportive to continue growing.
+- I'm looking for the opportunity to work in an open, inclusive team and always ready to overcome any challenge, where everybody is very supportive to continue growing.
 - I'm looking for the opportunity to develop my skills and just grow as a person, where I can be who I really am.
 - I want to work with people who really appreciate everything you see around us, where I can take the good of each circumstance as an experience to continue learning.
 - I want to be in an environment where I can adapt to new situations as part of the change, where mistakes are seen as an opportunity for improvement.

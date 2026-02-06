@@ -4,7 +4,7 @@ This reference provides comprehensive lists of red flags (warning signs) and gre
 
 ## Non-Obvious Red Flags in Job Postings
 
-These subtle signals often hint at underlying issues like burnout, lack of support, or mismatched expectations, which can erode job satisfaction over time.
+These subtle signals often hint at underlying issues like burnout, lack of support or mismatched expectations, which can erode job satisfaction over time.
 
 ### Language and Phrasing Red Flags
 
@@ -13,13 +13,13 @@ These subtle signals often hint at underlying issues like burnout, lack of suppo
 | "Wear many hats" or "no two days are the same" | Indicates vague or shifting responsibilities, suggesting an understaffed team or unclear role definition. Leads to overload and frustration as priorities change without guidance. |
 | Buzzwords like "rockstar," "ninja," or "guru" | Subtly glorifies overwork and ego-driven culture, masking high-pressure environments where collaboration takes a backseat to performative intensity. |
 | "Self-starter" or "thrives with little direction/supervision" | Implies minimal management or team support, leaving employees feeling isolated and undervalued, especially if you're not truly independent. |
-| "Fast-paced environment" or "handles ambiguity well" | Hints at constant chaos, tight deadlines, or unclear processes without resources to manage them, fostering stress and reduced sense of accomplishment. |
+| "Fast-paced environment" or "handles ambiguity well" | Hints at constant chaos, tight deadlines or unclear processes without resources to manage them, fostering stress and reduced sense of accomplishment. |
 | "Results-driven" without mention of support or collaboration | Focuses narrowly on metrics over holistic contributions, signaling a high-scrutiny culture that overlooks work quality or team input, leading to burnout. |
 | "Family-like atmosphere" | Sounds warm but often means blurred boundaries and interpersonal drama, eroding professional respect and work-life separation. Can also indicate guilt-based overtime expectations. |
 | "Work hard, play hard" | Code for "we'll burn you out, then expect you to pretend you're having fun." Almost always indicates a workplace that lacks boundaries between professional and personal time. |
 | "Ability to tolerate a high level of stress" or "constantly changing deadlines" | Explicitly warns of unmanageable stress and impossible deadlines. Companies advertising this are normalizing dysfunction. |
 | "Operate at a feverish pace while never compromising the craft" | Unrealistic expectation combining speed with perfection, suggesting burnout culture without acknowledging human limitations. |
-| "Thrives under pressure" or "thick skin required" | May signal abrasive management where harsh feedback, public embarrassment, or cutting remarks are normalized rather than constructive coaching. |
+| "Thrives under pressure" or "thick skin required" | May signal abrasive management where harsh feedback, public embarrassment or cutting remarks are normalized rather than constructive coaching. |
 | Overly cute or quirky language (e.g., "content wizard," "word master") | Suggests organizational immaturity or trying too hard to appeal to candidates, potentially masking lack of professional structure. |
 
 ### Structural and Organizational Red Flags
@@ -27,13 +27,13 @@ These subtle signals often hint at underlying issues like burnout, lack of suppo
 | Red Flag | Why It's Problematic |
 |----------|---------------------|
 | No specific goals or success metrics outlined | Leaves expectations fuzzy, making it hard to gauge impact or growth, resulting in aimless work and demotivation. |
-| Vague job descriptions | Either laziness or unclear role definition. Leads to scope creep, mismatched expectations, and potential scams. |
+| Vague job descriptions | Either laziness or unclear role definition. Leads to scope creep, mismatched expectations and potential scams. |
 | Over-complicated job posts with laundry lists of requirements | Shows confusion within the company and unrealistic expectations. Entry-level roles requiring 5+ years experience or mastery of dozens of tools. |
 | No salary information or "competitive salary" | Typically indicates below-market compensation or transparency issues. In locations without salary transparency laws, omission is more concerning. |
 | Constant hiring for the same position | Suggests high turnover due to unrealistic expectations or toxic work environment. People keep leaving for a reason. |
-| Urgent hiring language and immediate start dates | Frequently signals high turnover situations, desperate circumstances, or disorganization within the team. |
+| Urgent hiring language and immediate start dates | Frequently signals high turnover situations, desperate circumstances or disorganization within the team. |
 | Generic "growing team" language without context | Often used to mask turnover issues. Legitimate growth can usually be articulated with specific reasons and future plans. |
-| Spelling and grammar mistakes | Can indicate haste, lack of attention to detail, or general carelessness in business operations. |
+| Spelling and grammar mistakes | Can indicate haste, lack of attention to detail or general carelessness in business operations. |
 | Vague or missing interview process information | Too few or too many interviews can signal disorganization or inexperienced colleagues hired quickly. |
 | Unclear responsibilities and scope | Shows either laziness or lack of understanding of what the role should accomplish. |
 
@@ -43,7 +43,7 @@ These subtle signals often hint at underlying issues like burnout, lack of suppo
 |----------|---------------|
 | All interviewers are new employees | Unless the company just launched, this signals poor retention and toxic work culture. |
 | Interviewer badmouths previous employees | Indicates gossip culture and lack of professional boundaries. You may be compared to "old you" frequently. |
-| Interviewer cannot articulate any workplace challenges | Shows lack of honesty or trust, or that venting about frustrations is the norm. |
+| Interviewer cannot articulate any workplace challenges | Shows lack of honesty or trust or that venting about frustrations is the norm. |
 | Pressure to make quick decisions | Manipulation tactic. Legitimate employers respect that changing jobs is a significant decision. |
 | Requests for money or personal financial information | Immediate disqualifier—potential scam. |
 | Multiple openings in same department without clear growth story | Is the department expanding or replacing everyone who quit? |
@@ -53,11 +53,11 @@ These subtle signals often hint at underlying issues like burnout, lack of suppo
 
 **Minor flags** (1-2): May be addressable through questions during interview process.
 
-**Major dealbreakers**: Multiple red flags, or any requests for money/personal financial information, should be automatic disqualifiers.
+**Major dealbreakers**: Multiple red flags or any requests for money/personal financial information, should be automatic disqualifiers.
 
 ## Non-Obvious Green Flags in Job Postings
 
-These understated positives suggest thoughtful structure, inclusivity, and employee focus, correlating with higher satisfaction through clarity, growth, and balance.
+These understated positives suggest thoughtful structure, inclusivity and employee focus, correlating with higher satisfaction through clarity, growth and balance.
 
 ### Language and Structure Green Flags
 
@@ -75,13 +75,13 @@ These understated positives suggest thoughtful structure, inclusivity, and emplo
 
 | Green Flag | Why It Matters |
 |-----------|---------------|
-| Mentions of mentorship, training, or feedback loops | Signals investment in growth, helping employees feel supported and valued beyond output, sustaining long-term engagement. |
+| Mentions of mentorship, training or feedback loops | Signals investment in growth, helping employees feel supported and valued beyond output, sustaining long-term engagement. |
 | Professional development programs explicitly outlined | Shows long-term commitment to employees and recognition that fostering growth retains talent. |
 | Clear pathways for advancement or career development | Indicates the company thinks about employee futures, not just immediate needs. |
 | Evident company values woven into the role | Demonstrates cultural consistency and alignment opportunities, enhancing fulfillment by connecting work to bigger picture. |
 | Specific work-life perks like "flexible hours to support personal commitments" | Indicates genuine boundary respect, preventing resentment and promoting recharge for sustained productivity. |
 | Mentions of work-life balance, remote work options, parental leave | Shows the company values employees' personal lives and overall well-being. |
-| Diversity and inclusion language backed by specific examples | When D&I isn't just buzzwords but demonstrated through concrete benefits, accommodations, and policies. |
+| Diversity and inclusion language backed by specific examples | When D&I isn't just buzzwords but demonstrated through concrete benefits, accommodations and policies. |
 | Description of team dynamics and collaboration style | Helps candidates understand if work style matches preferences. |
 
 ### Interview Process Green Flags
@@ -110,7 +110,7 @@ These understated positives suggest thoughtful structure, inclusivity, and emplo
 
 ### Meaningful Work Indicators (Research-Backed)
 
-These three elements correlate with higher engagement, productivity, and retention:
+These three elements correlate with higher engagement, productivity and retention:
 
 1. **Community**: Authentic belonging, shared values, collaborative culture
 2. **Contribution**: Clear understanding of how work matters and impacts others
@@ -131,7 +131,7 @@ Job postings that explicitly or implicitly address all three dimensions signal a
 
 1. **Cross-reference**: Does the job posting language match employee reviews on Glassdoor?
 2. **Social media audit**: Do current employees seem happy and engaged on LinkedIn?
-3. **News search**: Recent layoffs, funding issues, or leadership scandals?
+3. **News search**: Recent layoffs, funding issues or leadership scandals?
 4. **Mission alignment**: Do company values match what's important to you?
 
 ### During Interviews

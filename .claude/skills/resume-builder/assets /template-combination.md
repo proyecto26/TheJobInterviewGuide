@@ -11,7 +11,7 @@ Best for: Mid-career professionals, those with diverse skill sets, career change
 ---
 
 ## PROFESSIONAL SUMMARY
-[3-4 sentences highlighting your unique value proposition, key skill areas, and relevant achievements. Bridge between your experience and target role. Include relevant keywords.]
+[3-4 sentences highlighting your unique value proposition, key skill areas and relevant achievements. Bridge between your experience and target role. Include relevant keywords.]
 
 ---
 

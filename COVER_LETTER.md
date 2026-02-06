@@ -10,7 +10,7 @@
 
 To Whom It May Concern:
 
-I am an experienced Software Engineer with a background in web and mobile development, having 9+ years of practice and leadership building interactive experiences. I am writing to apply for the position of **[Role Name]** at **[Company Name]** posted in **[LinkedIn/StackOverflow/etc]**. As a huge fan of **[Field Name]** and also because Technology is changing all of the time, and I feel the skills, qualities and values I possess are a good match **[for your company/to your growing team]**.
+I am an experienced Software Engineer with a background in web and mobile development, having 9+ years of practice and leadership building interactive experiences. I am writing to apply for the position of **[Role Name]** at **[Company Name]** posted in **[LinkedIn/StackOverflow/etc]**. As a huge fan of **[Field Name]** and also because Technology is changing all of the time and I feel the skills, qualities and values I possess are a good match **[for your company/to your growing team]**.
 
 ### Work History/Results
 
@@ -23,15 +23,15 @@ Additionally, in my role as **[Role Name]**, I led our team in creating a **[Str
 <details>
   <summary>Optional</summary>
   
-  I am very hard working, always looking to improve my skills and research about new **[strategies/technologies]** to figure out new ways to do my job better, and also I am someone who is completely commited to building the best software products for the world.
+  I am very hard working, always looking to improve my skills and research about new **[strategies/technologies]** to figure out new ways to do my job better and also I am someone who is completely commited to building the best software products for the world.
   
-  I would love to be part of a great team when we're making a great impact solving interesting challenges, always we need the help of others, and with my experience I feel I have a lot to offer in regard to technical expertise and my passion to a shared goal.
+  I would love to be part of a great team when we're making a great impact solving interesting challenges, always we need the help of others and with my experience I feel I have a lot to offer in regard to technical expertise and my passion to a shared goal.
   
   I am very good at what I do because of my discipline and commitment, I know that if I'm part of your team I will start to contribute positively to the team's objectives quickly, always with the best attitude. I'm excited at the prospect of bringing the skills I developed through this experience to the **[Role Name]** at **[Company Name]**.
 </details>
 
 - Option A:
-I would love the opportunity to discuss how I can contribute to your team. Thank you in advance for your consideration, and I look forward to hearing from you.
+I would love the opportunity to discuss how I can contribute to your team. Thank you in advance for your consideration and I look forward to hearing from you.
 
 - Option B:
 For a greater illustration of my background and qualifications, please review my enclosed resume, I am eager to speak with you about this opportunity and thoroughly appreciate your consideration.

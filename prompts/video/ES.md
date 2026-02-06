@@ -4,8 +4,8 @@
 
 ```
 Acabo de completar una prueba tecnica para <COMPANY_NAME> y quiero grabar un video
-en Loom para acompanar mi entrega. Ayudame a preparar un guion estructurado que
-demuestre mi proceso mental y creativo.
+en Loom (maximo 5 minutos) para acompanar mi entrega. Ayudame a preparar un guion
+estructurado que demuestre mi proceso mental y creativo.
 
 Esta es la prueba que resolvi: <TEST_DESCRIPTION>
 Estas son las decisiones tecnicas principales que tome: <KEY_DECISIONS>

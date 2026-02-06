@@ -1,6 +1,6 @@
 # FUNCTIONAL RESUME TEMPLATE
 
-Use this template for career changers, employment gaps, or emphasizing transferable skills over work history.
+Use this template for career changers, employment gaps or emphasizing transferable skills over work history.
 Best for: Career transitions, returning to workforce, diverse experience in different fields
 
 ---
@@ -11,7 +11,7 @@ Best for: Career transitions, returning to workforce, diverse experience in diff
 ---
 
 ## PROFESSIONAL SUMMARY
-[3-4 sentences clearly stating your career transition, transferable skills, and value proposition. Essential for this format to explain your story. Include target role and relevant keywords.]
+[3-4 sentences clearly stating your career transition, transferable skills and value proposition. Essential for this format to explain your story. Include target role and relevant keywords.]
 
 ---
 
@@ -132,7 +132,7 @@ Best for: Career transitions, returning to workforce, diverse experience in diff
 2. **Professional Summary:** Critical in this format - must clearly explain career transition
 3. **Skill Categories:** Choose 3-4 categories most relevant to target role
 4. **Relevant Experience:** Draw examples from any context (work, volunteer, projects, education)
-5. **Employment History:** Keep brief - just titles, companies, and dates
+5. **Employment History:** Keep brief - just titles, companies and dates
 6. **Recent Training:** Emphasize to show commitment to new field
 7. **Projects:** Highly recommended to demonstrate current skills
 8. **Customization:** Adjust skill categories and examples for each application

@@ -11,8 +11,11 @@ LinkedIn profile: <INTERVIEWER_LINKEDIN_URL>
 Description/Bio: <INTERVIEWER_BIO>
 
 I want to understand their professional trajectory: what they've built, what they're
-passionate about, what they've worked on, and what their interests are. Look for posts,
-articles, talks, or projects they've shared.
+passionate about, what they've worked on and what their interests are. Look for posts,
+articles, talks, podcasts, personal website or projects they've shared.
+
+Also look for their personal interests and topics they care about beyond work; this
+helps build genuine empathy, not rehearsed flattery.
 
 With this information, help me identify:
 - Connection points between their experience and mine
@@ -20,4 +23,6 @@ With this information, help me identify:
 - Examples from my experience that relate to what they've done or value
 - How to mention these points naturally during the interview, without it seeming
   forced or memorized
+- Specific achievements or values they've shared that I genuinely resonate with,
+  so I can reference them with real examples from my own experience
 ```

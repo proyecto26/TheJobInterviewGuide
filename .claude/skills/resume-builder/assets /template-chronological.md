@@ -11,7 +11,7 @@ Best for: Most professionals, especially those staying in same field
 ---
 
 ## PROFESSIONAL SUMMARY
-[2-4 sentences highlighting your experience level, key skills, and value proposition. Include relevant keywords from target job description. Optional but recommended for mid-career and senior professionals.]
+[2-4 sentences highlighting your experience level, key skills and value proposition. Include relevant keywords from target job description. Optional but recommended for mid-career and senior professionals.]
 
 ---
 
@@ -47,7 +47,7 @@ Best for: Most professionals, especially those staying in same field
 **[Degree], [Major]** | [University Name], [City, State]  
 [Month Year] | [GPA if 3.5+ and recent graduate]
 
-- [Relevant honors, awards, or distinctions if applicable]
+- [Relevant honors, awards or distinctions if applicable]
 - [Relevant coursework if recent graduate or career changer - list 3-5 courses]
 
 ---

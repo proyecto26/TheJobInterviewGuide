@@ -1,13 +1,13 @@
 ---
 name: resume-builder
-description: Comprehensive resume creation, review, and optimization with support for multiple formats, ATS optimization, industry-specific guidance, and career stage customization. Use this skill when users request help writing, creating, reviewing, improving, or tailoring resumes for job applications.
+description: Comprehensive resume creation, review and optimization with support for multiple formats, ATS optimization, industry-specific guidance and career stage customization. Use this skill when users request help writing, creating, reviewing, improving or tailoring resumes for job applications.
 ---
 
 # Resume Builder
 
 ## Overview
 
-This skill provides comprehensive guidance for creating professional, ATS-optimized resumes tailored to specific industries, career stages, and job opportunities. It includes best practices, templates, industry-specific guidance, and ATS optimization strategies.
+This skill provides comprehensive guidance for creating professional, ATS-optimized resumes tailored to specific industries, career stages and job opportunities. It includes best practices, templates, industry-specific guidance and ATS optimization strategies.
 
 ## Workflow Decision Tree
 
@@ -94,7 +94,7 @@ Before writing, consult relevant sections in `references/industry-career-guidanc
 - Creative / Design
 - Manufacturing / Supply Chain
 
-Tailor language, priorities, and emphasis based on industry norms.
+Tailor language, priorities and emphasis based on industry norms.
 
 ### Step 4: Apply Best Practices
 
@@ -127,12 +127,12 @@ Apply ATS-friendly practices from `references/ats-optimization.md`:
 **Structure Requirements:**
 - Standard section headings
 - Simple, single-column layout
-- No text boxes, tables, or complex formatting
+- No text boxes, tables or complex formatting
 - Standard fonts and bullet points
 
 **Keyword Integration:**
 - Extract keywords from job description (if provided)
-- Place keywords strategically in summary, skills, and experience
+- Place keywords strategically in summary, skills and experience
 - Use both acronyms and spelled-out versions
 - Integrate naturally without keyword stuffing
 
@@ -154,7 +154,7 @@ Create resume using docx format:
 6. **Include relevant sections** only (delete inapplicable ones)
 
 **Critical Formatting Guidelines:**
-- Use standard fonts: Calibri, Arial, Helvetica, or similar (10-12pt body, 14-16pt headers)
+- Use standard fonts: Calibri, Arial, Helvetica or similar (10-12pt body, 14-16pt headers)
 - Consistent bullet points throughout (use • or - consistently)
 - Left-aligned text for easy scanning
 - Adequate white space between sections
@@ -419,13 +419,13 @@ For general questions or guidance:
 ### References
 
 **best-practices.md**
-Comprehensive resume writing guidance covering core principles, format standards, section-specific guidance, common mistakes, tailoring strategies, and proofreading checklist.
+Comprehensive resume writing guidance covering core principles, format standards, section-specific guidance, common mistakes, tailoring strategies and proofreading checklist.
 
 **ats-optimization.md**
-Complete ATS optimization guide including how ATS works, formatting requirements, keyword optimization, common pitfalls, testing approaches, and industry-specific considerations.
+Complete ATS optimization guide including how ATS works, formatting requirements, keyword optimization, common pitfalls, testing approaches and industry-specific considerations.
 
 **industry-career-guidance.md**
-Specialized guidance for different career stages, industries, global considerations, and remote work experience presentation.
+Specialized guidance for different career stages, industries, global considerations and remote work experience presentation.
 
 ### Templates
 
@@ -474,7 +474,7 @@ Always deliver resumes as professional docx files:
 
 1. Use standard business formatting
 2. Ensure consistent styling throughout
-3. Apply appropriate fonts (Calibri, Arial, or similar)
+3. Apply appropriate fonts (Calibri, Arial or similar)
 4. Include proper spacing and margins
 5. Save as .docx format
 6. Provide clear file naming: FirstName_LastName_Resume.docx

@@ -6,8 +6,8 @@
 - Is there any topic that comes up during the day that you feel confused or unclear about?
 - Is there anyone specifically that you have a hard time working with for any reason? 
 - Do you feel challenged on a daily basis?
-- Do you feel competitive with your coworkers, or is it more of a teamwork environment?
-- Is there anyone within the company that you look up to, and why?
+- Do you feel competitive with your coworkers or is it more of a teamwork environment?
+- Is there anyone within the company that you look up to and why?
 - Is this job providing you with a good overall work/life balance?
 - Tell me your thoughts on my management style.
 - Do you feel like your education is being put to its maximum use in your position?
@@ -28,7 +28,7 @@
 - Describe in detail the last hour of your normal work day.
 - Is there someone in the office that you would like to work more closely with?
 - Name something you do on a daily basis at work that you feel does not get enough attention or credit.
-- Do you want to be more involved in decision making, or do you prefer to enact the decisions of others?
+- Do you want to be more involved in decision making or do you prefer to enact the decisions of others?
 - Present me with a situation that you would like to know my response to.
 - List three things that you think the company as a whole should do to be more competitive. 
 - What specific functions would you train a new employee on first?
@@ -60,7 +60,7 @@
 - Are you happy that you left your previous job for this one?
 - How long can you see yourself working here?
 - Are you having fun? Tell me about the most fun you've had working here.
-- What is most important to our business -- mission, core values, or vision?
+- What is most important to our business -- mission, core values or vision?
 - What are you doing really well that is moving you towards your career goals?
 - What parts of the business would you like to be more involved in or learn more about?
 - Sometimes an organization gets so focused on the tactical and day-to-day that they forget to take time to focus on being creative and fostering innovative ideas. What can we do to be more creative and innovative?
@@ -88,7 +88,7 @@
 - When have you had the most fun at work? (And it doesn't have to be this company! It can be past roles too.)
 - Generally speaking, are you happy being employed here?
 - What are 1 or 2 things in our team that could be done more efficiently?
-- What is one thing that I, or the company, could to do support you in achieving your goals?
+- What is one thing that I or the company, could to do support you in achieving your goals?
 - How could your working hours be adjusted to better fit your schedule?
 - When was the last time you got stuck and needed help at work?  Who/what helped you get unstuck?
 - What part of your job do you enjoy the most? And which part do you enjoy least?

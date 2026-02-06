@@ -1,6 +1,6 @@
-# Templates, Examples, and Sample Assets
+# Templates, Examples and Sample Assets
 
-This reference provides concrete templates, example messages, and sample frameworks to make the job search strategy immediately actionable.
+This reference provides concrete templates, example messages and sample frameworks to make the job search strategy immediately actionable.
 
 ## Self-Diagnostic Tool: Where's Your Search Breaking Down?
 
@@ -18,7 +18,7 @@ Use this rubric to identify which phase needs attention. Rate yourself 1-5 on ea
 - [ ] I have quantified achievements with specific metrics (1 = none, 5 = multiple)
 - [ ] My LinkedIn/portfolio demonstrates my best work (1 = outdated, 5 = impressive)
 - [ ] I can tell compelling stories about my impact (1 = struggle with examples, 5 = confident)
-- [ ] I have testimonials, recommendations, or social proof (1 = none, 5 = strong validation)
+- [ ] I have testimonials, recommendations or social proof (1 = none, 5 = strong validation)
 
 **Score < 12**: You need to build credibility assets. Focus on Phase 3 portfolio development.
 
@@ -47,7 +47,7 @@ Use this framework to evaluate opportunities:
 | BigCo Analyst | 9 | 4 | 5 | 18 | Low |
 
 **Fit**: Do your skills and experience directly match their needs?
-**Leverage**: Do you have connections, unique skills, or timing advantages?
+**Leverage**: Do you have connections, unique skills or timing advantages?
 **Energy**: Are you genuinely excited about this opportunity?
 
 **Target**: 20+ total score. Prioritize roles scoring 23+.
@@ -56,7 +56,7 @@ Use this framework to evaluate opportunities:
 
 ### Daily (30-60 minutes)
 - [ ] Review 2-3 new job postings with red/green flag analysis
-- [ ] Send 2-3 personalized outreach messages (LinkedIn, email, or comments)
+- [ ] Send 2-3 personalized outreach messages (LinkedIn, email or comments)
 - [ ] Engage with 5-10 posts from target companies or hiring managers (thoughtful comments)
 - [ ] Update your tracking spreadsheet with responses and next steps
 
@@ -64,7 +64,7 @@ Use this framework to evaluate opportunities:
 - [ ] Deep research on 1-2 priority companies (Phase 1 full analysis)
 - [ ] Apply to 3-5 strategically selected roles (not spray-and-pray)
 - [ ] Schedule/conduct 2+ informational interviews or networking calls
-- [ ] Create or improve one portfolio piece, blog post, or proof asset
+- [ ] Create or improve one portfolio piece, blog post or proof asset
 - [ ] Review pipeline: conversion rates, what's working, what's not
 
 ### Monthly (4-6 hours)
@@ -101,7 +101,7 @@ Would you be open to a brief chat about your experience there?
 ```
 Thanks for connecting, [Name]!
 
-I'm particularly interested in [Company] because [specific reason tied to your background]. I noticed you work on [their team/project] — that's exactly the kind of [problem/domain] I've been focused on at [your experience].
+I'm particularly interested in [Company] because [specific reason tied to your background]. I noticed you work on [their team/project]; that's exactly the kind of [problem/domain] I've been focused on at [your experience].
 
 Any chance you'd have 15 minutes for a quick call this week? I'd love to hear about [specific question about their work].
 ```
@@ -136,7 +136,7 @@ Quick snapshot of relevant background:
 • [Relevant skill/experience that matches their need]
 • [Unique angle that most candidates won't have]
 
-I built [small project/analysis] related to [their product/market] — would love to share it with you: [link]
+I built [small project/analysis] related to [their product/market]; would love to share it with you: [link]
 
 Are you open to a brief conversation about the role?
 
@@ -153,7 +153,7 @@ Hi [Name],
 
 Following up on my note from last week about the [Role Title] position.
 
-I wanted to add — I just [recent accomplishment/published something/completed relevant project] that's directly relevant to [their challenge/team need].
+I wanted to add; I just [recent accomplishment/published something/completed relevant project] that's directly relevant to [their challenge/team need].
 
 Still interested in connecting if you have 15 minutes this week.
 

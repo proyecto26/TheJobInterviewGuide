@@ -13,7 +13,7 @@ Ayudame a redactar una respuesta que demuestre:
 - Que soy activo y estoy dispuesto a colaborar
 - Confianza y seguridad, no necesidad ni desesperacion
 - Interes genuino en la oportunidad, no urgencia
-- Que soy servicial y asertivo
+- Que soy servicial, asertivo y puedo aportar valor desde el primer dia
 
 La respuesta debe ser profesional, concisa y generar una impresion positiva. No debe
 ser instantanea (parecer demasiado ansioso) ni tardia, sino oportuna. Si tengo alguna

@@ -80,7 +80,7 @@ Best for: Recent graduates, interns transitioning to full-time, entry-level job 
 **[Leadership Position]** | [Organization Name]  
 [Month Year] – [Month Year]
 
-- [Achievement showing leadership, impact, or organizational skills]
+- [Achievement showing leadership, impact or organizational skills]
 - [Quantifiable result if possible]
 
 **[Activity or Club]** | [Organization Name]  

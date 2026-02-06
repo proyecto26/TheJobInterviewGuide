@@ -1,6 +1,6 @@
 ---
 name: job-search-strategist
-description: Comprehensive job search strategy skill for analyzing job postings, discovering non-obvious insights, conducting conversational skills-matching interviews, identifying skill development needs, and creating creative, personalized application strategies. This skill should be used when users want help with job applications, career transitions, analyzing job opportunities, or developing targeted job search approaches that help them stand out from other candidates.
+description: Comprehensive job search strategy skill for analyzing job postings, discovering non-obvious insights, conducting conversational skills-matching interviews, identifying skill development needs and creating creative, personalized application strategies. This skill should be used when users want help with job applications, career transitions, analyzing job opportunities or developing targeted job search approaches that help them stand out from other candidates.
 ---
 
 # Job Search Strategist
@@ -14,7 +14,7 @@ The modern hiring process demands three things:
 2. **Proof**: Demonstrate that value through evidence, not claims
 3. **Distribution**: Reach decision-makers through channels that bypass noise
 
-This skill treats job searching as a **go-to-market problem**. Like launching a product, you need product-market fit (your skills match their needs), positioning (your narrative stands out), and distribution strategy (you reach buyers effectively). Generic applications are low-signal. This system maximizes signal at every stage.
+This skill treats job searching as a **go-to-market problem**. Like launching a product, you need product-market fit (your skills match their needs), positioning (your narrative stands out) and distribution strategy (you reach buyers effectively). Generic applications are low-signal. This system maximizes signal at every stage.
 
 ### What Makes This Different
 
@@ -27,7 +27,7 @@ This system:
 - **Measurable**: Built-in KPIs and pipeline tracking to diagnose what's working
 - **Repeatable**: Operating rhythm for daily/weekly activities, not just one-off tactics
 
-**Core Principle**: You're not looking for "any job." You're finding the intersection of what you're excellent at, what companies urgently need, and where you have unique leverage. Everything flows from that clarity.
+**Core Principle**: You're not looking for "any job." You're finding the intersection of what you're excellent at, what companies urgently need and where you have unique leverage. Everything flows from that clarity.
 
 ## When to Use This Skill
 
@@ -93,7 +93,7 @@ Conduct comprehensive analysis to uncover non-obvious insights about the role an
    - "Fast-paced environment" often means → high stress, tight deadlines, possible disorganization
    - "Wear many hats" often means → understaffed, unclear role boundaries
    - "Results-driven" without collaboration mentions often means → high-pressure, metric-focused culture
-   - Detailed responsibilities split by essential/preferred often means → realistic, organized planning
+   - Detailed responsibilities split by essential/preferred often means → realistic organized planning
 
 4. **Extract Cultural Indicators**
    - Tone and language style (formal vs. casual, inclusive vs. exclusive)
@@ -115,7 +115,7 @@ Use web search tools extensively to build a comprehensive company profile:
 2. **Recent News and Developments**
    - Search: `"[company name]" news 2025` or `"[company name]" news past 6 months`
    - Look for: funding rounds, acquisitions, layoffs, leadership changes, product launches
-   - Assess trajectory: growing, stable, or struggling?
+   - Assess trajectory: growing, stable or struggling?
 
 3. **Funding and Financial Health**
    - For startups: funding stage (seed, Series A/B/C, etc.), total raised, recent rounds
@@ -462,7 +462,7 @@ Transform new learning into accomplishment statements:
 
 **Decision Point**:
 - **Quick wins achieved (< 2 weeks)**: Proceed to Phase 4, continue learning in parallel
-- **Substantial development needed (2+ months)**: Either (a) apply now and emphasize learning plan, or (b) delay application until proof is stronger
+- **Substantial development needed (2+ months)**: Either (a) apply now and emphasize learning plan or (b) delay application until proof is stronger
 
 **Transition to Phase 4**: "Here's your development plan for the next [timeframe]. Let's now focus on your application strategy while you're building these proof assets."
 
@@ -582,8 +582,8 @@ Based on prioritization, select and customize tactics:
 - **Timing**: publish 1-2 weeks before applying, reference in application
 
 **Direct Email Campaign Strategy**
-- **When to prioritize**: Startup, founder-led, or when you can't find other pathways
-- **Finding emails**: Hunter.io, RocketReach, or pattern guessing ([name]@company.com)
+- **When to prioritize**: Startup, founder-led or when you can't find other pathways
+- **Finding emails**: Hunter.io, RocketReach or pattern guessing ([name]@company.com)
 - **Email structure**:
   * Subject line: specific and intriguing, not generic "Application for [role]"
   * Body: 3-4 short paragraphs max
@@ -593,7 +593,7 @@ Based on prioritization, select and customize tactics:
 - **Timing**: Tuesday-Thursday, 10 AM-2 PM in their timezone
 
 **Social Proof Strategy**
-- **When to prioritize**: You have testimonials, notable accomplishments, or public validation
+- **When to prioritize**: You have testimonials, notable accomplishments or public validation
 - **Gather ammunition**:
   * LinkedIn recommendations from impressive people
   * Metrics from previous work (growth %, revenue, users, etc.)
@@ -651,7 +651,7 @@ For competitive roles, layer tactics over time:
 - Or: share relevant content/project you created
 
 **Week 4**:
-- Final touchpoint: brief email if you have address, or different angle
+- Final touchpoint: brief email if you have address or different angle
 
 **Important**: gauge company signals. If they say "no outreach," respect that. Multi-touch works for companies open to proactive candidates.
 
@@ -801,7 +801,7 @@ After 4 weeks, review:
 **When to use each reference**:
 - Start with templates file for self-diagnostic before beginning any phase
 - Use job-posting-flags during Phase 1 analysis
-- Return to templates for message drafts, tracking setup, and examples throughout
+- Return to templates for message drafts, tracking setup and examples throughout
 - Reference case studies when user's situation matches one of the patterns
 
 ## Best Practices and Tips
@@ -889,7 +889,7 @@ Low activity volume?
 → Problem: Not doing enough. Solution: Increase daily/weekly rhythm.
 
 High volume but low response rate?
-→ Problem: Weak signal (positioning, targeting, or message quality). 
+→ Problem: Weak signal (positioning, targeting or message quality). 
 → Solution: Revisit Phase 1 (better targeting) and Phase 2 (clearer value prop).
 
 Good response rate but low interview conversion?
@@ -1028,7 +1028,7 @@ When to pivot vs. persist:
 4. **Geographic/comp mismatch** → Adjust expectations or location
 
 **Monthly Retrospective Questions**:
-1. What surprised me this month? (about market, myself, or process)
+1. What surprised me this month? (about market, myself or process)
 2. What tactic worked better than expected?
 3. What tactic was a waste of time?
 4. What feedback did I get repeatedly? (skill gap, positioning issue, etc.)
@@ -1093,4 +1093,4 @@ Keep going, but change tactics when data says something isn't working.
 **Authenticity wins**: 
 The best tactics match your natural strengths and genuine interests.
 
-The market rewards clarity, proof, and smart distribution. This skill gives you the system. Execution and iteration are up to you.
+The market rewards clarity, proof and smart distribution. This skill gives you the system. Execution and iteration are up to you.

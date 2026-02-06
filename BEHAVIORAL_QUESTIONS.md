@@ -3,7 +3,7 @@
 - How do you work with others?
 - How open are you to receiving feedback?
 - Tell me about a time where you made a mistake in a previous project/job.
-- Describe a situation where you had to complete a task/goal, and you could achieve it.
+- Describe a situation where you had to complete a task/goal and you could achieve it.
 - Give me an example of a time when you disagreed with a colleague.
 - Is there something you would like to ask?
 - What have you done in the last 3 jobs?
@@ -36,14 +36,14 @@
     - Situation: I was in a meeting with a client, presenting a demo, when suddenly my wife appeared very scared and asked me for help because something was happening, then I realized that my little cat was walking on the edge of the balcony, I had to pause my presentation because I was so worried.
     - Task: Ask for a break and rescue my cat.
     - Action: I had to be brave and rescue the cat, then I was able to finish the presentation.
-    - Result: I was able to face that so stressful situation because I was thinking in the solution instead of the problem, and then I was calm because I had been able to finish the presentation with the help of my team. 
+    - Result: I was able to face that so stressful situation because I was thinking in the solution instead of the problem and then I was calm because I had been able to finish the presentation with the help of my team. 
   - A PoC with a new technology in a short period of time (StartUp Acquisition)
   - Working in a project with 1 week sprints (working weekends)
   - Excel generation tool migration with a class having more than 30k lines of code and without business formulas.
-    - Situation: Code refactor of a software with more than 10 years in the market, and having classes of more than 30k lines of code, where the client did not know the formulas of the business with which more than 30 different critical excel files were exported.
+    - Situation: Code refactor of a software with more than 10 years in the market and having classes of more than 30k lines of code, where the client did not know the formulas of the business with which more than 30 different critical excel files were exported.
     - Task: Looking to improve the UX (performance) for generating these files.
     - Action: I had to contribute to Open Source and created interfaces to simulate functionalities of a deprecated library. I spent some months working on this migration.
-    - Result: Using benchmarks I was able to compare these tools, and I found some issues during this migration but with the help of these Open Source contributions (reporting issues, discussing and reviewing the code of the external lib) I was able to solve unforeseen problems.
+    - Result: Using benchmarks I was able to compare these tools and I found some issues during this migration but with the help of these Open Source contributions (reporting issues, discussing and reviewing the code of the external lib) I was able to solve unforeseen problems.
 </details>
     
 <details>
@@ -236,7 +236,7 @@
 - Be yourself; mention where I have been wrong, I have failed **(Everyone makes mistakes)** and express the initiatives that I have taken.
 - Talk more about what I did, instead of talking so much about what we did as a team; e.g: I disccused with the manager, I shared a technical presentation with the team and together we managed to decide this. Talk with your team
 - There have been several situations where I failed, did I communicate it in time? it is important to mention it
-- Be honest, express if I made bad decisions, if it took me longer, and that I learned from the process.
+- Be honest, express if I made bad decisions, if it took me longer and that I learned from the process.
 - How do you interact with the team?
 - How do I react to failure? Show what I learned from the experience to avoid repeating the same mistakes.
 - Give numbers, coverage improved, how much percentage? improved sales, how much? Did the decisions I made help make life easier for users?

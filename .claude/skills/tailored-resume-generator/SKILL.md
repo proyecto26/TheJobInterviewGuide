@@ -1,6 +1,6 @@
 ---
 name: tailored-resume-generator
-description: Analyzes job descriptions and generates tailored resumes that highlight relevant experience, skills, and achievements to maximize interview chances
+description: Analyzes job descriptions and generates tailored resumes that highlight relevant experience, skills and achievements to maximize interview chances
 ---
 
 # Tailored Resume Generator
@@ -16,9 +16,9 @@ description: Analyzes job descriptions and generates tailored resumes that highl
 
 ## What This Skill Does
 
-1. **Analyzes Job Descriptions**: Extracts key requirements, skills, qualifications, and keywords from job postings
+1. **Analyzes Job Descriptions**: Extracts key requirements, skills, qualifications and keywords from job postings
 2. **Identifies Priorities**: Determines what employers value most based on the job description language and structure
-3. **Tailors Content**: Reorganizes and emphasizes relevant experience, skills, and achievements
+3. **Tailors Content**: Reorganizes and emphasizes relevant experience, skills and achievements
 4. **Optimizes Keywords**: Incorporates ATS-friendly keywords naturally throughout the resume
 5. **Formats Professionally**: Creates clean, professional resume layouts suitable for various formats
 6. **Provides Recommendations**: Suggests improvements and highlights gaps to address
@@ -79,7 +79,7 @@ Senior Data Analyst Position
 
 Requirements:
 - 5+ years experience in data analysis
-- Expert in SQL, Python, and data visualization tools
+- Expert in SQL, Python and data visualization tools
 - Experience with A/B testing and statistical analysis
 - Strong communication skills to present findings
 - Healthcare industry experience preferred
@@ -100,9 +100,9 @@ My background:
 Email: john.doe@email.com | Phone: (555) 123-4567 | LinkedIn: linkedin.com/in/johndoe
 
 ## PROFESSIONAL SUMMARY
-Results-driven Data Analyst with 5+ years of experience leveraging SQL, Python, and advanced
+Results-driven Data Analyst with 5+ years of experience leveraging SQL, Python and advanced
 visualization tools to deliver actionable insights. Proven track record in statistical analysis,
-A/B testing, and cross-functional collaboration. Healthcare industry experience with strong
+A/B testing and cross-functional collaboration. Healthcare industry experience with strong
 ability to communicate complex data findings to stakeholders.
 
 ## TECHNICAL SKILLS
@@ -121,7 +121,7 @@ ability to communicate complex data findings to stakeholders.
 - Built interactive Tableau and Power BI dashboards for executive team, enabling
   data-driven decision making
 - Presented analytical findings to cross-functional stakeholders including marketing,
-  operations, and executive leadership
+  operations and executive leadership
 - Collaborated with marketing team to analyze customer behavior patterns and optimize
   targeting strategies
 
@@ -176,7 +176,7 @@ Extract and prioritize:
 - **Key skills**: Technical tools, methodologies, competencies
 - **Soft skills**: Communication, leadership, teamwork
 - **Industry knowledge**: Domain-specific experience
-- **Keywords**: Repeated terms, phrases, and buzzwords for ATS optimization
+- **Keywords**: Repeated terms, phrases and buzzwords for ATS optimization
 - **Company values**: Cultural fit indicators from job description
 
 Create a mental map of:
@@ -230,7 +230,7 @@ For each job requirement:
 
 - Use standard section headings (Professional Experience, Education, Skills)
 - Incorporate exact keywords from job description naturally
-- Avoid tables, graphics, headers/footers, or complex formatting
+- Avoid tables, graphics, headers/footers or complex formatting
 - Use standard fonts and bullet points
 - Include both acronyms and full terms (e.g., "SQL (Structured Query Language)")
 - Match job title terminology where truthful
@@ -320,7 +320,7 @@ Ask if user wants to:
 **Technical Roles**:
 - Include technical skills section prominently
 - List programming languages, frameworks, tools
-- Include GitHub, portfolio, or project links
+- Include GitHub, portfolio or project links
 - Mention methodologies (Agile, Scrum, etc.)
 
 **Creative Roles**:
@@ -334,8 +334,8 @@ Ask if user wants to:
 ## Tips for Best Results
 
 - **Be specific**: Provide complete job descriptions and detailed background information
-- **Share metrics**: Include numbers, percentages, and quantifiable achievements when describing your experience
-- **Indicate format preference**: Let the skill know if you need ATS-optimized, creative, or traditional format
+- **Share metrics**: Include numbers, percentages and quantifiable achievements when describing your experience
+- **Indicate format preference**: Let the skill know if you need ATS-optimized, creative or traditional format
 - **Mention constraints**: Share any specific requirements (page limits, sections to include/exclude)
 - **Iterate**: Don't hesitate to ask for revisions or alternative approaches
 - **Multiple applications**: Generate separate tailored versions for different roles

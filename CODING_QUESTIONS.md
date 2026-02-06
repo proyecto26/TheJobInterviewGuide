@@ -6,7 +6,7 @@
 including the complexity and approximate runtime. Ask the interviewer if it's ok or if you should think about something more optimized. Then figure out your data structure (Array, Stack, Queue, Hashset/Hashmap/Hashtable/Dictionary, Tree/Binary Tree, Heap, Graph, Bloom Filter, etc) and implement.
 - Importantly, after you have finished writing your code, run through it verbally with your interviewer. This is really important at this point. Does it really do what you think it does? Make sure to read what is there, not what you think is there.
 - Test your code, put in an input to see what happens. We’re looking for you to find the bugs yourself and fix anything that comes up
-- Restate the complexity. Is it the same, or different to your initial thinking based on what you have actually coded up? Make sure you’re thinking about both space and time
+- Restate the complexity. Is it the same or different to your initial thinking based on what you have actually coded up? Make sure you’re thinking about both space and time
 - Optimize. Proactively suggest ways to optimize to the interviewer and get their feedback to ensure what you’re trying to do is not overly complex and is correct, then code it up.
 
 > Write a simple clean bug free and not over engineering/over complicated code – it's better a simple code that works that an overcomplicated code that doesn’t work – *the simple the better*.
@@ -49,7 +49,7 @@ Key points to be successful in the coding interview:
 - How can I improve this approach?
 - Ask lots of questions, clarify the problem, make sure you know exactly what they are asking you to do and or solve.
 - Think out loud: explain your thought process, explain the different ways you are attempting to solve the problem, you need to verbally map out your solutions so the interviewer can understand your thought process. Also, the more the you talk and explain you approaches, the more the interviewer can provide subtle hints on what they are looking for.
-- Lastly, turn your verbal solution, into good, clean, concise, bug free code checking for edge cases and corner cases, and even putting together a manual use case if you have time.
+- Lastly, turn your verbal solution, into good, clean, concise, bug free code checking for edge cases and corner cases and even putting together a manual use case if you have time.
 
 ## Credits:
 - [AlgosMed](https://discord.gg/ttMu5az6wM) - Mocking interviews, algorithms, etc

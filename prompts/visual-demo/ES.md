@@ -11,15 +11,18 @@ Este es el resumen de mi investigacion:
 <RESEARCH_SUMMARY>
 
 Quiero generar un <VISUAL_TYPE> que comunique de forma clara y profesional:
-- El problema que resuelve la empresa
-- La solucion y como impacta a sus clientes/usuarios
-- El diferenciador clave frente a competidores
-- Ideas de como podrian expandir/escalar su solucion
+- El problema de la industria (antes de que existiera la empresa)
+- La solucion y como impacta a sus clientes/usuarios (el despues)
+- La propuesta de valor y el diferenciador clave frente a competidores
+- Como generan valor y su modelo de negocio
+- Ideas de como podrian expandir/escalar su solucion (ej. ofrecer sus servicios
+  a traves de herramientas modernas como MCP servers, AI Skills, Agents)
 
-El objetivo es reducir algo abstracto/complejo a algo visual que demuestre que
-realmente entendí el negocio y que puedo llegar a aportar valor. Esto debe generar
-puntos de conversacion organica durante la entrevista, demostrar interes genuino y
-profesionalismo.
+El objetivo es transformar datos complejos en una narrativa visual (estilo pitch deck)
+que demuestre que realmente entendi el negocio y que puedo llegar a aportar valor. Esto
+debe generar puntos de conversacion organica durante la entrevista; cuando el
+entrevistador pregunte "Que sabes de nosotros?", puedo pedir permiso para compartir
+pantalla y presentar esto.
 
 Tipos de visual: comic, diagrama de arquitectura, flujo del producto, infografia,
 mapa del modelo de negocio, o cualquier formato que mejor comunique el mensaje.

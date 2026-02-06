@@ -32,14 +32,46 @@ Use these prompts in sequence to prepare for your next interview:
 
 | Phase | Prompt | ES | EN |
 |---|---|---|---|
-| 1. Build Your Arsenal | Prepare a reusable Open Source template before you need it | [ES](prompts/template/ES.md) | [EN](prompts/template/EN.md) |
-| 2. Document Your Process | Record a Loom video showing your mental process, not just the result | [ES](prompts/video/ES.md) | [EN](prompts/video/EN.md) |
-| 3. Communicate with Confidence | Draft professional messages that show confidence, not desperation | [ES](prompts/communication/ES.md) | [EN](prompts/communication/EN.md) |
+| 1. Build Your Arsenal | Never start from zero; prepare a reusable Open Source template | [ES](prompts/template/ES.md) | [EN](prompts/template/EN.md) |
+| 2. Document Your Process | Record a Loom video (max 5 min) showing how you think, not just what you built | [ES](prompts/video/ES.md) | [EN](prompts/video/EN.md) |
+| 3. Communicate with Confidence | Turn the interview into a two-way conversation, not an interrogation | [ES](prompts/communication/ES.md) | [EN](prompts/communication/EN.md) |
 | 4. Deep Research | Research the company like you're writing a scientific paper | [ES](prompts/research/ES.md) | [EN](prompts/research/EN.md) |
-| 5. Know Your Interviewer | Research the interviewer to find genuine connection points | [ES](prompts/interviewer/ES.md) | [EN](prompts/interviewer/EN.md) |
-| 6. Visual Demonstration | Create visuals (comics, diagrams, architecture) that prove you understand the business | [ES](prompts/visual-demo/ES.md) | [EN](prompts/visual-demo/EN.md) |
+| 5. Know Your Interviewer | Find genuine connection points; empathy, not rehearsed flattery | [ES](prompts/interviewer/ES.md) | [EN](prompts/interviewer/EN.md) |
+| 6. Visual Demonstration | Transform your research into a comic, diagram or pitch deck | [ES](prompts/visual-demo/ES.md) | [EN](prompts/visual-demo/EN.md) |
 
-> Use AI skills/plugins like [sherlock-ai-plugin](https://github.com/proyecto26/sherlock-ai-plugin) to generate comics and other visual elements. Use the [ProjectX](https://github.com/proyecto26/projectx) template as a starting point for Phase 1.
+> Use [ProjectX](https://github.com/proyecto26/projectx) or any other template as a starting point for Phase 1 and AI skills/plugins like [sherlock-ai-plugin](https://github.com/proyecto26/sherlock-ai-plugin) for Phases 4-6.
+
+### During the Interview
+
+> A good interview becomes a conversation between colleagues. Everything here adapts to the interviewer, the company and the role; this is a guide, not a script.
+
+- When they ask something like "What do you know about us?", that's your opening: *"Actually, I did some research and put something together; mind if I share my screen real quick?"* From there, the conversation flows naturally
+- A senior profile **simplifies complexity** and proposes improvements to the product or business
+- Suggest how the company could scale through modern tools like **MCP servers, AI Skills, Agents**; show applied AI thinking
+
+### AI Tools and Automation
+
+- Use **Claude Code** and custom **Skills** to automate research, process documents (e.g. Mineru API for doc-to-Markdown) and generate visuals (Gemini, DALL-E)
+- Configure **Agents and generators** with Turbo Repo or pnpm; create a CLI so AI follows your project standards
+
+### Claude Code Skills
+
+This repo includes [Claude Code](https://docs.anthropic.com/en/docs/claude-code) skills you can use directly from your terminal:
+
+| Skill | What it does |
+|---|---|
+| `job-search-strategist` | Analyzes job postings, discovers red/green flags, conducts skills-matching interviews and creates personalized application strategies |
+| `resume-builder` | Creates, reviews and optimizes resumes with ATS optimization, industry-specific guidance and multiple format support |
+| `tailored-resume-generator` | Analyzes a job description and generates a tailored resume highlighting your most relevant experience and achievements |
+
+> Install [Claude Code](https://docs.anthropic.com/en/docs/claude-code), clone this repo and use these skills to prepare your job search materials following the examples included in this guide.
+
+### Mindset
+
+- **Evolve from programmer to solution architect**; the difference lies in creativity and tool orchestration
+- **Stay active**: own projects, hackathons, open source. Present yourself as a founder, not just a coder
+- **Build your network**: communities (La Plaza Devs, MedellinJS, CodeYourFuture) and tech events
+- **Choose wisely**: look for companies that value autonomy and teamwork, avoid places that replace humans with AI without a growth vision
 
 ## Practice
 
@@ -131,7 +163,7 @@ Use these prompts in sequence to prepare for your next interview:
 - [Credits](https://github.com/proyecto26/TheJobInterviewGuide/blob/main/INTERVIEWING.md#credits)
 
 ## Mock Interviews
-- [Watch technical mock interviews with engineers from Google, Amazon, and more](https://interviewing.io/recordings)
+- [Watch technical mock interviews with engineers from Google, Amazon and more](https://interviewing.io/recordings)
 - [Practice live interviews with peers](https://www.pramp.com)
 - [The Interview Cake Course](https://www.interviewcake.com/table-of-contents)
 - [Get your coding skills certified, practice for technical interviews and build your developer resume](https://codesignal.com/developers)
@@ -181,7 +213,7 @@ Use these prompts in sequence to prepare for your next interview:
 - [The Algorithm Design Canvas captures the thought process when solving an algorithmic problem. ](https://www.hiredintech.com/classrooms/algorithm-design/lesson/78)
 - [Gauge how prepared you are on CS fundamentals with more than 400 questions that will take from less than a minute to about an hour to solve.](https://www.interviewbit.com/)
 - [Preparing for Your Initial Interview at Facebook](https://www.facebook.com/careers/FEE-prep-initial)
-- [I interviewed at five top companies in Silicon Valley in five days, and luckily got five job offers](https://medium.com/@XiaohanZeng/i-interviewed-at-five-top-companies-in-silicon-valley-in-five-days-and-luckily-got-five-job-offers-25178cf74e0f)
+- [I interviewed at five top companies in Silicon Valley in five days and luckily got five job offers](https://medium.com/@XiaohanZeng/i-interviewed-at-five-top-companies-in-silicon-valley-in-five-days-and-luckily-got-five-job-offers-25178cf74e0f)
 - [Software Architecture Books](https://github.com/mhadidg/software-architecture-books) - A comprehensive list of books on Software Architecture.
 
 ## Videos
@@ -191,8 +223,8 @@ Use these prompts in sequence to prepare for your next interview:
 - [Careers OnAir Technical Interview Coding Demo](https://youtu.be/4NS51hRSaEE)
 
 ## Contributing ✨
-When contributing to this repository, please first discuss the change you wish to make via issue, email, or any other method with the owners of this repository before making a change.  
-Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated** ❤️.  
+When contributing to this repository, please first discuss the change you wish to make via issue, email or any other method with the owners of this repository before making a change.  
+Contributions are what make the open-source community such an amazing place to learn, inspire and create. Any contributions you make are **greatly appreciated** ❤️.  
 You can learn more about how you can contribute to this project in the [contribution guide](https://github.com/proyecto26/TheJobInterviewGuide/blob/main/CONTRIBUTING.md).
 
 ## License ⚖️

@@ -327,7 +327,7 @@ console.log(hasPath(graph, 1, 5)) // Output: true
 ### Returns the shortest path between startNode and targetNode
 ```ts
 /**
- * BFS visits the neighbor vertices before visiting the child vertices, and a queue is used in the search process.
+ * BFS visits the neighbor vertices before visiting the child vertices and a queue is used in the search process.
  * Time complexity: O(|V|^2).
  */
 function shortestPath (
@@ -467,10 +467,10 @@ A transaction is looks like:
 ```js
 // Input: list of transactions (Transaction[])
 findDuplicateTransactions(transactions)
-// Output: list of all the duplicate transaction groups, ordered by time ascending (Transaction[][])
+// Output: list of all the duplicate transaction groups ordered by time ascending (Transaction[][])
 ```
 
-Find all transactions that have the same sourceAccount, targetAccount, category, amount, and the time difference between each consecutive transaction is less than 1 minute.
+Find all transactions that have the same sourceAccount, targetAccount, category, amount and the time difference between each consecutive transaction is less than 1 minute.
 ```js
 Array.prototype.flatMap = function(lambda) { 
   return [].concat.apply([], this.map(lambda)) 

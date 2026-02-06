@@ -37,14 +37,14 @@
 **Example Bullets:**
 - "Developed machine learning model as capstone project that classified images with 94% accuracy using Python and TensorFlow"
 - "Led team of 5 students to complete semester-long software development project, delivering functional web application 2 weeks ahead of schedule"
-- "Completed 500+ hours of clinical rotations across pediatrics, emergency medicine, and primary care settings"
+- "Completed 500+ hours of clinical rotations across pediatrics, emergency medicine and primary care settings"
 
 ### Mid-Career Professional (5-15 years)
 
 **Overall Strategy:**
 - Demonstrate consistent career progression
 - Showcase increasing responsibility and impact
-- Highlight leadership, management, and strategic contributions
+- Highlight leadership, management and strategic contributions
 - Balance breadth and depth of experience
 
 **Structure Recommendations:**
@@ -75,7 +75,7 @@
 - Not quantifying significant achievements
 
 **Example Bullets:**
-- "Led cross-functional team of 12 across engineering, design, and product to launch new SaaS platform, achieving 10K users and $2M ARR within first year"
+- "Led cross-functional team of 12 across engineering, design and product to launch new SaaS platform, achieving 10K users and $2M ARR within first year"
 - "Reduced operational costs by $500K annually through process optimization and vendor renegotiation initiatives"
 - "Promoted from Senior Analyst to Manager within 18 months based on consistent high performance and strategic contributions"
 
@@ -126,7 +126,7 @@
 **Overall Strategy:**
 - Highlight transferable skills and relevant experiences
 - Address the transition explicitly but positively
-- Emphasize recent relevant training, projects, or education
+- Emphasize recent relevant training, projects or education
 - Focus on skills and outcomes rather than job titles
 
 **Structure Recommendations:**
@@ -163,7 +163,7 @@
 - "Earned Project Management Professional (PMP) certification and completed 3 client projects through volunteer consulting"
 
 **Professional Summary Example:**
-"Operations professional with 8 years of process optimization experience transitioning to data analytics. Completed Google Data Analytics Certificate and built portfolio of projects using SQL, Python, and Tableau. Proven ability to identify inefficiencies and implement data-driven solutions that reduce costs and improve performance."
+"Operations professional with 8 years of process optimization experience transitioning to data analytics. Completed Google Data Analytics Certificate and built portfolio of projects using SQL, Python and Tableau. Proven ability to identify inefficiencies and implement data-driven solutions that reduce costs and improve performance."
 
 ## Industry-Specific Guidance
 
@@ -185,7 +185,7 @@
 
 **Example Bullets:**
 - "Optimized database queries reducing page load time from 3.2s to 0.8s, improving user retention by 15%"
-- "Built RESTful API serving 10M+ requests/day with 99.9% uptime using Node.js, Express, and PostgreSQL"
+- "Built RESTful API serving 10M+ requests/day with 99.9% uptime using Node.js, Express and PostgreSQL"
 - "Implemented CI/CD pipeline with Jenkins and Docker, reducing deployment time from 2 hours to 15 minutes"
 
 ### Healthcare / Medical
@@ -213,7 +213,7 @@
 
 **Key Elements:**
 - **Certifications**: CPA, CFA, CMA prominently displayed
-- **Financial Software**: QuickBooks, SAP, Oracle, Bloomberg Terminal
+- **Financial Software**: QuickBooks, SAP oracle, Bloomberg Terminal
 - **Regulatory Knowledge**: GAAP, IFRS, SOX, SEC reporting
 - **Analysis Types**: Financial modeling, forecasting, budgeting, auditing
 - **Industry Expertise**: Specific sectors (banking, private equity, corporate)
@@ -383,7 +383,7 @@
 - **Operational Metrics**: Production output, quality metrics, on-time delivery
 - **Process Improvement**: Lean, Six Sigma certifications and projects
 - **Safety**: OSHA compliance, safety incident reduction
-- **Supply Chain Systems**: ERP systems (SAP, Oracle), WMS, MES
+- **Supply Chain Systems**: ERP systems (SAP oracle), WMS, MES
 - **Regulatory Knowledge**: Industry-specific compliance requirements
 
 **Resume Focus:**

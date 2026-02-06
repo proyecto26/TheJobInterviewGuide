@@ -1,5 +1,5 @@
 ## The STAR Method
-A structured manner of responding to a behavioural-based interview question by discussing the specific situation, task, action, and result of the situation you are describing.
+A structured manner of responding to a behavioural-based interview question by discussing the specific situation, task, action and result of the situation you are describing.
 
 - Situation
 - Task
@@ -7,7 +7,7 @@ A structured manner of responding to a behavioural-based interview question by d
 - Result
 
 ### Situation
-Describe the situation that you were in or the task that you needed to accomplish. You must describe a specific event or situation, not a generalized description of what you have done in the past. Be sure to give enough detail for the interviewer to understand. This situation can be from a previous job, from a volunteer experience, or any relevant event.
+Describe the situation that you were in or the task that you needed to accomplish. You must describe a specific event or situation, not a generalized description of what you have done in the past. Be sure to give enough detail for the interviewer to understand. This situation can be from a previous job, from a volunteer experience or any relevant event.
 
 ### Task
 What goal were you working toward?
@@ -32,9 +32,9 @@ Describe the outcome of your actions and don’t be shy about taking credit for 
 
 ## How to prepare for a Behavioral interview?
 
-Recall recent situations that show favorable behaviors or actions, especially involving course work, work experience, leadership, teamwork, initiative, planning, and customer service.
+Recall recent situations that show favorable behaviors or actions, especially involving course work, work experience, leadership, teamwork, initiative, planning and customer service.
 - Prepare short descriptions of each situation; be ready to give details if asked.
-- Be sure each story has a beginning, middle, and an end, i.e., be ready to describe the situation, including the task at hand, your action, and the outcome or result.
+- Be sure each story has a beginning, middle and an end, i.e., be ready to describe the situation, including the task at hand, your action and the outcome or result.
 - Be sure the outcome or result reflects positively on you (even if the result itself was not favorable).
 - Be honest. Don't embellish or omit any part of the story. The interviewer will find out if your story is built on a weak foundation.
 - Be specific. Don't generalize about several events; give a detailed accounting of one event.

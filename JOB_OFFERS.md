@@ -24,7 +24,7 @@ Sincerely,\
 Hello folks at **[Company Name]**, hope you're doing well
 
 Thank you very much for offering me the position of **[Role Name]** at **[Company Name]**.
-I've enjoyed learning more about the role, the organization, and the company culture.
+I've enjoyed learning more about the role, the organization and the company culture.
 
 After careful consideration, I have come to a difficult decision. Unfortunately, I have to decline this opportunity, although it is interesting. 
 

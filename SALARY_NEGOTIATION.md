@@ -5,13 +5,13 @@
 
 > You know I really don't know. I don't have a number in mind right now. I'd like to think about the value that I can add to this firm and this team. I'm excited for this opportunity based on what I know about it. And I can't wait to learn more about it and continue talking to people in the interview process.
 
-> You know I'm really not comfortable sharing my current salary and what my employer pays people that do the kind of work that I do, and I'd rather focus on the value that I can add in this position. And I'm really looking forward to this move being a big step forward for me in terms of both responsibility and compensation and I can't wait to talk about the position and the opportunity that's ahead of me.
+> You know I'm really not comfortable sharing my current salary and what my employer pays people that do the kind of work that I do and I'd rather focus on the value that I can add in this position. And I'm really looking forward to this move being a big step forward for me in terms of both responsibility and compensation and I can't wait to talk about the position and the opportunity that's ahead of me.
 
-> I don’t have a specific number in mind for a desired salary, and you know better than I do what value my skillset and experience could bring to your company. I want this move to be a big step forward for me in terms of both responsibility and compensation.
+> I don’t have a specific number in mind for a desired salary and you know better than I do what value my skillset and experience could bring to your company. I want this move to be a big step forward for me in terms of both responsibility and compensation.
 
-> Before I give you a number, I'd like to understand how you compensate employees and how this job fits into your compensation structure. I'm curious to know the salary grade for this position, the salary range and midpoint for that grade, and where that grade fits into your compensation system? That will give me a better idea of how this position fits into your structure and my career plans.
+> Before I give you a number, I'd like to understand how you compensate employees and how this job fits into your compensation structure. I'm curious to know the salary grade for this position, the salary range and midpoint for that grade and where that grade fits into your compensation system? That will give me a better idea of how this position fits into your structure and my career plans.
 
-> Before I give you a number, I'd like to understand more about company, the work environment, the requirements of the job, and other important considerations like the opportunity for growth. Then, I'll have a better idea what an appropriate salary would be.
+> Before I give you a number, I'd like to understand more about company, the work environment, the requirements of the job and other important considerations like the opportunity for growth. Then, I'll have a better idea what an appropriate salary would be.
 
 > I need to understand and evaluate the total compensation package before I give you a salary number. Could you share the standard benefits you provide?
 
@@ -67,7 +67,7 @@ Gracias por compartir!
 
 > Thanks for letting me know, I am seeking a base pay of $XX,XXX **(HIGHER END OF YOUR RANGE)**, but I can be flexible depending on the benefits and any incentives you may offer, please let me know if that salary range works for you 🙂
 
-> Based on my research and the information you have provided, I believe that a salary in the range of $XX,XXX to $XX,XXX with [# of weeks of] paid vacation, [other benefits important to you which have been stated as included], and your other benefits would be appropriate.
+> Based on my research and the information you have provided, I believe that a salary in the range of $XX,XXX to $XX,XXX with [# of weeks of] paid vacation, [other benefits important to you which have been stated as included] and your other benefits would be appropriate.
 
 > 🇪🇸 🇨🇴 Hola! entiendo completamente, actualmente mi aspiración salarial es de $XXXXXX USD en adelante **(El valor más alto de tu rango)**, pero soy flexible dependiendo de los beneficios que ustedes ofrezcan, déjame saber si este rango salarial está bien para ustedes.
 
@@ -88,13 +88,13 @@ Gracias por compartir!
 
 > Why is it relevant? ... Ah, I see. Thanks for the clarification. Look, I want to be transparent: If you were to make me an offer, it's unlikely I would accept it. Your company isn’t a great fit for me at this time. So I don't want to waste more of your time. But if you wind up brushing up on your interviewing process and making improvements, feel free to reach out to me again for consideration **(10x DEVELOPER)**
 
-> **I am unable to provide my current salary**: As I am sure you understand, my employer considers employee salaries to be confidential, and access to this information is limited to management inside our organization. So, I am unable to share it with you. However, if you share the salary level and range for this position, I can confirm that my salary is within that range or not. I'm sure you'll understand me cause if we would work together and will have any private conversations with you the company could be sure 'll never disclose it as well.
+> **I am unable to provide my current salary**: As I am sure you understand, my employer considers employee salaries to be confidential and access to this information is limited to management inside our organization. So, I am unable to share it with you. However, if you share the salary level and range for this position, I can confirm that my salary is within that range or not. I'm sure you'll understand me cause if we would work together and will have any private conversations with you the company could be sure 'll never disclose it as well.
 
 > I don't think that my current salary is relevant, but if you must have that information, I will provide it after you share the salary level and range for this job.
 
-> I **will** share my salary expectations with you, and we can see if it fits into your salary range for this position.
+> I **will** share my salary expectations with you and we can see if it fits into your salary range for this position.
 
-> I have done my initial homework, and salary information on the Internet indicates I’m in the range. For now we should assume that salary won’t be an issue.  Plus, I need to understand the full extent of the opportunity and the benefits you provide to employees plus what the salary range is for this role.
+> I have done my initial homework and salary information on the Internet indicates I’m in the range. For now we should assume that salary won’t be an issue.  Plus, I need to understand the full extent of the opportunity and the benefits you provide to employees plus what the salary range is for this role.
 
 > Sharing my current salary is inappropriate for me. I'm expecting to be compensated conmesurately with my experience and the role that I’ll have at this company.
 
@@ -107,9 +107,9 @@ Understand that "your mileage may vary." If the employer isn’t very interested
 ## Benefits/Perks
 - Signing bonus (only increasing the first year income)
 - Monthly bonuses (Sodexo Pass)
-- Annual, quarterly, or other bonuses
+- Annual, quarterly or other bonuses
 - Commissions (usually for sales jobs)
-- Stock, a stock purchase plan, and/or stock options
+- Stock, a stock purchase plan and/or stock options
 - Annual (or more frequent) salary increases
 - Vacation days
 - Personal days

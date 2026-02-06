@@ -3,7 +3,7 @@
 ## Understanding ATS
 
 **What is an ATS?**
-Applicant Tracking Systems are software applications that help companies manage recruitment. They scan, parse, and rank resumes before human review. An estimated 75%+ of resumes never reach human eyes due to ATS filtering.
+Applicant Tracking Systems are software applications that help companies manage recruitment. They scan, parse and rank resumes before human review. An estimated 75%+ of resumes never reach human eyes due to ATS filtering.
 
 **How ATS Works:**
 1. **Parsing**: Extracts data from resume (name, contact info, work history, education, skills)
@@ -31,7 +31,7 @@ Applicant Tracking Systems are software applications that help companies manage 
 - Simple, single-column layout
 - Standard fonts: Arial, Calibri, Helvetica, Times New Roman, Garamond
 - Font size: 10-12pt for body, 14-16pt for headings
-- Consistent bullet points (•, -, or – throughout)
+- Consistent bullet points (•, - or – throughout)
 - Clear visual hierarchy with white space
 - Standard margins (0.5-1 inch)
 - Traditional chronological or combination format
@@ -314,7 +314,7 @@ City, State | Phone | Email | LinkedIn
 
 ### Finance/Accounting
 - List certifications (CPA, CFA, CMA)
-- Include financial software (QuickBooks, SAP, Oracle)
+- Include financial software (QuickBooks, SAP oracle)
 - Use industry-specific terms (GAAP, reconciliation)
 - Mention regulatory knowledge (SOX, IFRS)
 - Specify types of analysis performed

@@ -80,7 +80,7 @@
 - Lead with years of experience and key expertise
 - Mention specific skills matching job requirements
 - Include 1-2 notable achievements or unique qualifications
-- Example: "Marketing professional with 8+ years driving growth for SaaS companies. Expertise in digital strategy, content marketing, and data analytics. Led campaigns that increased MQLs by 150% and contributed to $5M in new revenue."
+- Example: "Marketing professional with 8+ years driving growth for SaaS companies. Expertise in digital strategy, content marketing and data analytics. Led campaigns that increased MQLs by 150% and contributed to $5M in new revenue."
 
 **When to Skip:**
 - Entry-level positions where experience is limited

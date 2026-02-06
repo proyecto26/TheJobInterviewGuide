@@ -1,5 +1,5 @@
 ## Dynamic Programming
-Dynamic Programming (DP) is a similar approach to Divide & Conquer. It also breaks the problem into similar subproblems, but they are actually overlapping and codependent — they’re not solved independently.
+Dynamic Programming (DP) is a similar approach to Divide & Conquer. It also breaks the problem into similar subproblems, but they are actually overlapping and codependent; they’re not solved independently.
 Each subproblem’s result can be used anytime later and it is built using memoization (precalculation). DP is mostly used for (time & space) optimization and it is based on finding a recurrence.
 
 ## Big O Notation
@@ -60,7 +60,7 @@ First In, First Out, e.g: Queues
 </table>
 
 ## Call stack
-A stack data structure that stores information about the active subroutines of a computer program. (also known as an execution stack, program stack, control stack, run-time stack, or machine stack). It's used to keep track of the point to which each active subroutine should return control when it finishes executing. An active subroutine is one that has been called, but is yet to complete execution, after which control should be handed back to the point of call.
+A stack data structure that stores information about the active subroutines of a computer program. (also known as an execution stack, program stack, control stack, run-time stack or machine stack). It's used to keep track of the point to which each active subroutine should return control when it finishes executing. An active subroutine is one that has been called, but is yet to complete execution, after which control should be handed back to the point of call.
 ## Graphs
 Graphs are used to represent networks. It's a data structure that consists of the following two components:
 - A finite set of vertices also called as nodes.

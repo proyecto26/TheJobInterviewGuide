@@ -13,12 +13,22 @@ ____
 
 I'm looking to understand how <COMPANY_NAME> works, how they generate value for their
 clients/users, what problems they truly solve, what their differentiating element is
-along with their company values, and everything that will help me be prepared for an
-interview with them. This is the interviewer's profile at this company:
+along with their company values and everything that will help me be prepared for an
+interview with them.
+
+Review LinkedIn, recent posts and team members to understand the overall vision.
+Identify a specific company value or a team member's achievement I can mention.
+
+This is the interviewer's profile at this company:
 
 INTERVIEWER_PROFILE_DESCRIPTION
 
 Please use all your skills for learning/research/deep-research to understand more about
-this company, and then let's create a document like a scientific paper about the company,
-the problem, the solution, and the model they propose/offer with their tools.
+this company and then let's create a document like a scientific paper about the company,
+the problem, the solution and the model they propose/offer with their tools.
+
+The paper should cover: the industry problem (before/after), the value proposition
+(benefit/impact), the key differentiator vs competitors, strategic alliances/partners
+they have or could have to scale and the type of culture they promote; so I can
+honestly assess if this is a genuine fit for me as a candidate too.
 ```

@@ -4,8 +4,8 @@
 
 ```
 I just completed a technical test for <COMPANY_NAME> and I want to record a Loom video
-to accompany my submission. Help me prepare a structured script that demonstrates my
-mental and creative process.
+(max 5 minutes) to accompany my submission. Help me prepare a structured script that
+demonstrates my mental and creative process.
 
 This is the test I solved: <TEST_DESCRIPTION>
 These are the main technical decisions I made: <KEY_DECISIONS>

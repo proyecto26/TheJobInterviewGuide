@@ -1,6 +1,6 @@
 ## Preséntate
 
-> Estructura tu presentación en partes, adapta cada una dependiendo de la empresa y el entrevistador. No todas las entrevistas necesitan cada sección — lee el ambiente. Elige un estilo de introducción y combínalo con los bloques de construcción de abajo.
+> Estructura tu presentación en partes, adapta cada una dependiendo de la empresa y el entrevistador. No todas las entrevistas necesitan cada sección; lee el ambiente. Elige un estilo de introducción y combínalo con los bloques de construcción de abajo.
 
 ---
 
@@ -14,7 +14,7 @@ Una gran parte de mi carrera ha sido trabajar como ingeniero fundador o de los p
 
 Más recientemente, he trabajado como ingeniero freelance y por contrato a través de mi propia empresa, Proyecto26, entregando proyectos de corto plazo y alto impacto. Apoyé a `<COMPANY_NAME>` en una plataforma interna de monitoreo, mejorando la estabilidad y confiabilidad en docenas de servicios. También construí un backend en tiempo real basado en eventos para una plataforma de trading Web3, procesando cientos de eventos de blockchain por segundo con latencia menor a un segundo hacia la interfaz. En otro proyecto, lideré la migración de una plataforma de recursos humanos lenta basada en microfrontends hacia una arquitectura SSR moderna, mejorando significativamente el rendimiento y la experiencia de usuario para flujos críticos de onboarding.
 
-En todos estos roles, lo que destaca es mi enfoque en la responsabilidad y los resultados. Me gusta entender profundamente el problema del usuario, proponer soluciones, implementarlas y darles seguimiento en producción. Me siento cómodo trabajando de forma autónoma, pero creo firmemente en la colaboración — hacer pair programming con compañeros, alinearme con producto y diseño, y compartir contexto temprano para que podamos movernos rápido juntos.
+En todos estos roles, lo que destaca es mi enfoque en la responsabilidad y los resultados. Me gusta entender profundamente el problema del usuario, proponer soluciones, implementarlas y darles seguimiento en producción. Me siento cómodo trabajando de forma autónoma, pero creo firmemente en la colaboración; hacer pair programming con compañeros, alinearme con producto y diseño, y compartir contexto temprano para que podamos movernos rápido juntos.
 
 Lo que realmente define mi experiencia es la capacidad de balancear velocidad, calidad e impacto: entregar rápido, iterar basándose en retroalimentación, y hacerme responsable de los sistemas que construyo y de los usuarios que dependen de ellos.
 
@@ -22,7 +22,7 @@ Lo que realmente define mi experiencia es la capacidad de balancear velocidad, c
 
 ### Estilo de Introducción B: Perfil Completo
 
-> Ideal para empresas que quieren ver el panorama completo — quién eres, qué aportas técnicamente y qué te importa más allá del código.
+> Ideal para empresas que quieren ver el panorama completo; quién eres, qué aportas técnicamente y qué te importa más allá del código.
 
 Soy J.D. Nicholls, Ingeniero de Sistemas, Desarrollador Senior Full-Stack y Contribuidor de Código Abierto de Medellín, Colombia (paisa/latino orgulloso), con más de 13 años de experiencia construyendo y escalando sistemas web, móviles y distribuidos en startups, empresas grandes y Web3.
 
@@ -43,17 +43,17 @@ Más allá de mi trabajo profesional, estoy profundamente involucrado en la comu
 
 **Herramientas y Plataformas:** Redis (Streams, TimeSeries), WebSockets, gRPC, AWS, Azure, GCP, Docker, Datadog, PostHog, GitHub, pipelines de CI/CD
 
-**Intereses:** Cuando no estoy programando o dando charlas, disfruto viajar como nómada digital, descubrir nuevas culturas y probar chocolate oscuro donde sea que vaya. También soy entusiasta del tenis y, lo más importante, soy padre orgulloso de dos hijos increíbles — Kiara y Dante, mi mayor inspiración.
+**Intereses:** Cuando no estoy programando o dando charlas, disfruto viajar como nómada digital, descubrir nuevas culturas y probar chocolate oscuro donde sea que vaya. También soy entusiasta del tenis y, lo más importante, soy padre orgulloso de dos hijos increíbles; Kiara y Dante, mi mayor inspiración.
 
 ---
 
 ### Personal (Opcional)
 
-> Algunas empresas priorizan a las personas y quieren saber quién eres más allá del código. Si el entrevistador te da espacio para esto o la cultura lo valora, comparte un poco sobre ti. Sé auténtico — esto no es un guion.
+> Algunas empresas priorizan a las personas y quieren saber quién eres más allá del código. Si el entrevistador te da espacio para esto o la cultura lo valora, comparte un poco sobre ti. Sé auténtico; esto no es un guion.
 
-Soy de Medellín, Colombia. Uno de mis sueños siempre ha sido viajar por el mundo, conocer gente de diferentes culturas y aprender de ellos — por eso empecé a trabajar remotamente hace varios años, y ha sido una de las mejores decisiones que he tomado.
+Soy de Medellín, Colombia. Uno de mis sueños siempre ha sido viajar por el mundo, conocer gente de diferentes culturas y aprender de ellos; por eso empecé a trabajar remotamente hace varios años, y ha sido una de las mejores decisiones que he tomado.
 
-Fuera del trabajo, me gusta hacer juegos 2D, crear tutoriales en video, jugar tenis y trabajar en proyectos personales que mezclan tecnología con creatividad. Soy mentor y ponente en comunidades locales porque genuinamente creo que compartir lo que sabes es la forma de seguir creciendo. También disfruto la astronomía y observar a la gente — hay algo en observar cómo funciona el mundo que inspira la forma en que construyo cosas.
+Fuera del trabajo, me gusta hacer juegos 2D, crear tutoriales en video, jugar tenis y trabajar en proyectos personales que mezclan tecnología con creatividad. Soy mentor y ponente en comunidades locales porque genuinamente creo que compartir lo que sabes es la forma de seguir creciendo. También disfruto la astronomía y observar a la gente; hay algo en observar cómo funciona el mundo que inspira la forma en que construyo cosas.
 
 ### FORTALEZAS
 
@@ -72,7 +72,7 @@ Soy una persona muy responsable, confiable y disciplinada.
 <details>
   <summary><b>¿Cuál es tu superpoder y qué es eso que haces mejor que nadie?</b></summary>
 
-  Lo que hago mejor que la mayoría es conectar los puntos entre producto, ingeniería y ejecución. Puedo alejarme para ver el sistema como un todo — arquitectura, flujos de trabajo, compromisos — y luego acercarme de nuevo para implementar los detalles con mis propias manos. Eso me permite moverme rápido sin crear problemas a largo plazo.
+  Lo que hago mejor que la mayoría es conectar los puntos entre producto, ingeniería y ejecución. Puedo alejarme para ver el sistema como un todo; arquitectura, flujos de trabajo, compromisos; y luego acercarme de nuevo para implementar los detalles con mis propias manos. Eso me permite moverme rápido sin crear problemas a largo plazo.
 
   También soy muy consistente bajo presión. Cuando las cosas no están claras, los plazos son ajustados o los sistemas están fallando, tiendo a mantener la calma, priorizar lo que importa y ayudar al equipo a avanzar. Esa combinación de claridad, responsabilidad y ejecución es donde agrego más valor.
 </details>
@@ -108,7 +108,7 @@ Soy una persona muy responsable, confiable y disciplinada.
 
   Busco alta responsabilidad, impacto significativo y colaboración fuerte. Quiero trabajar en un producto donde las decisiones de ingeniería importen, donde pueda asumir responsabilidad de principio a fin, y donde el equipo esté enfocado en resolver problemas reales de los usuarios en vez de solo entregar funcionalidades.
 
-  Desde una perspectiva tecnológica, me emocionan los sistemas full-stack modernos, especialmente aquellos que involucran arquitecturas basadas en eventos, orquestación de flujos de trabajo (Temporal) y frontends escalables (NextJS, React Router, React Query, TanStack, React Native, etc). Disfruto trabajar con equipos que valoran el diseño limpio, los compromisos pragmáticos y la mejora continua por encima de procesos rígidos.
+  Desde una perspectiva tecnológica, me emocionan los sistemas full-stack modernos, especialmente aquellos que involucran arquitecturas basadas en eventos orquestación de flujos de trabajo (Temporal) y frontends escalables (NextJS, React Router, React Query, TanStack, React Native, etc). Disfruto trabajar con equipos que valoran el diseño limpio, los compromisos pragmáticos y la mejora continua por encima de procesos rígidos.
 
   En general, busco un rol donde pueda comprometerme totalmente, crecer junto al equipo y ayudar a construir algo duradero, útil e impactante.
 </details>
@@ -150,9 +150,9 @@ Soy una persona muy responsable, confiable y disciplinada.
 
   Alta responsabilidad, impacto significativo y colaboración fuerte. Quiero trabajar en un producto donde las decisiones de ingeniería importen, donde pueda asumir responsabilidad de principio a fin, y donde el equipo esté enfocado en resolver problemas reales de los usuarios en vez de solo entregar funcionalidades.
 
-  La dinámica del equipo es muy importante para mí. Busco una cultura con expectativas claras, comunicación directa y responsabilidad mutua — donde las personas confíen unas en otras, den retroalimentación honesta y se muevan rápido juntas. Hago mi mejor trabajo en ambientes que recompensan la iniciativa y donde se anima a los ingenieros a pensar más allá de su alcance inmediato.
+  La dinámica del equipo es muy importante para mí. Busco una cultura con expectativas claras, comunicación directa y responsabilidad mutua; donde las personas confíen unas en otras, den retroalimentación honesta y se muevan rápido juntas. Hago mi mejor trabajo en ambientes que recompensan la iniciativa y donde se anima a los ingenieros a pensar más allá de su alcance inmediato.
 
-  Lo que me gustaría evitar son ambientes con baja responsabilidad, burocracia excesiva/micromanagement, o responsabilidad poco clara — donde las decisiones se estancan, se evita la retroalimentación o el impacto es difícil de medir. Tampoco me interesan roles donde los ingenieros están aislados del producto/usuarios o donde el proceso importa más que los resultados.
+  Lo que me gustaría evitar son ambientes con baja responsabilidad, burocracia excesiva/micromanagement, o responsabilidad poco clara; donde las decisiones se estancan, se evita la retroalimentación o el impacto es difícil de medir. Tampoco me interesan roles donde los ingenieros están aislados del producto/usuarios o donde el proceso importa más que los resultados.
 </details>
 
 <details>
@@ -167,9 +167,9 @@ Soy una persona muy responsable, confiable y disciplinada.
 <details>
   <summary><b>¿Qué tipo de ambiente de trabajo prefieres?</b></summary>
 
-  Una cultura con expectativas claras, comunicación directa y responsabilidad mutua — donde las personas confíen unas en otras, den retroalimentación honesta y se muevan rápido juntas. Hago mi mejor trabajo en ambientes que recompensan la iniciativa y donde se anima a los ingenieros a pensar más allá de su alcance inmediato.
+  Una cultura con expectativas claras, comunicación directa y responsabilidad mutua; donde las personas confíen unas en otras, den retroalimentación honesta y se muevan rápido juntas. Hago mi mejor trabajo en ambientes que recompensan la iniciativa y donde se anima a los ingenieros a pensar más allá de su alcance inmediato.
 
-  Disfruto trabajar con equipos que valoran el diseño limpio, los compromisos pragmáticos y la mejora continua por encima de procesos rígidos. Me gusta trabajar remotamente, pero también valoro la colaboración fuerte — tener la flexibilidad de compartir con mis colegas y mi familia mientras estoy profundamente conectado con el equipo y el producto.
+  Disfruto trabajar con equipos que valoran el diseño limpio, los compromisos pragmáticos y la mejora continua por encima de procesos rígidos. Me gusta trabajar remotamente, pero también valoro la colaboración fuerte; tener la flexibilidad de compartir con mis colegas y mi familia mientras estoy profundamente conectado con el equipo y el producto.
 </details>
 
 <details>
@@ -195,7 +195,7 @@ Soy una persona muy responsable, confiable y disciplinada.
 
   Soy un candidato ideal para este rol porque constantemente opero con responsabilidad de principio a fin en ambientes de ritmo rápido donde la ambigüedad es alta y el impacto importa. A lo largo de 13 años, he trabajado como ingeniero fundador y senior en startups y equipos de alto crecimiento, construyendo productos desde cero, estabilizando sistemas críticos y escalando plataformas usadas por miles de usuarios.
 
-  Lo que me diferencia es mi capacidad de moverme rápido sin perder calidad. Me siento cómodo tomando decisiones técnicas y de producto, entregando iterativamente y aprendiendo de la retroalimentación real de los usuarios. He diseñado y entregado sistemas complejos — desde plataformas financieras y Web3 hasta herramientas de monitoreo empresarial — donde la confiabilidad, la flexibilidad y el rendimiento eran esenciales.
+  Lo que me diferencia es mi capacidad de moverme rápido sin perder calidad. Me siento cómodo tomando decisiones técnicas y de producto, entregando iterativamente y aprendiendo de la retroalimentación real de los usuarios. He diseñado y entregado sistemas complejos; desde plataformas financieras y Web3 hasta herramientas de monitoreo empresarial; donde la confiabilidad, la flexibilidad y el rendimiento eran esenciales.
 
   También aporto una mentalidad colaborativa fuerte. Trabajo de cerca con producto, diseño y otros ingenieros para entender profundamente las necesidades de los usuarios y traducirlas en soluciones prácticas y escalables. No espero especificaciones o procesos perfectos; ayudo a crearlos, desbloqueo equipos y elevo el nivel con cada release.
 
@@ -205,11 +205,11 @@ Soy una persona muy responsable, confiable y disciplinada.
 <details>
   <summary><b>¿Por qué quieres trabajar con nosotros?</b></summary>
 
-  > Usa tu [investigación profunda](prompts/research/) para mencionar algo genuino aquí. Haz referencia a cosas específicas que encontraste sobre la empresa — un artículo de blog, un valor, una decisión de producto — no declaraciones genéricas.
+  > Usa tu [investigación profunda](prompts/research/) para mencionar algo genuino aquí. Haz referencia a cosas específicas que encontraste sobre la empresa; un artículo de blog, un valor, una decisión de producto; no declaraciones genéricas.
 
   Lo que más me emociona de esta oportunidad es la posibilidad de combinar mi experiencia técnica con la visión de `<COMPANY_NAME>`. Siempre me ha apasionado crear soluciones que no solo resuelvan desafíos inmediatos sino que también establezcan las bases para el crecimiento futuro. La cultura de innovación, colaboración e impacto de `<COMPANY_NAME>` se siente como una combinación genuina con la forma en que me gusta trabajar y lo que me importa.
 
-  Personalmente, nada me motiva más que ver que mi trabajo puede hacer la vida de las personas más fácil — agregar mi "granito de arena" para cambiar el mundo creando soluciones creativas e innovadoras que empoderen a las personas. También valoro la autenticidad, tomar riesgos y ayudar a otros (creo que la mayoría de los problemas del mundo se pueden resolver conectando personas).
+  Personalmente, nada me motiva más que ver que mi trabajo puede hacer la vida de las personas más fácil; agregar mi "granito de arena" para cambiar el mundo creando soluciones creativas e innovadoras que empoderen a las personas. También valoro la autenticidad, tomar riesgos y ayudar a otros (creo que la mayoría de los problemas del mundo se pueden resolver conectando personas).
 
   Profesionalmente, la oportunidad de trabajar con personas talentosas, resolver problemas interesantes con tecnología y tener buenos espacios para compartir conocimiento que me ayuden a tomar mejores decisiones, construir mejores productos y crear mejores experiencias para todos.
 
@@ -221,7 +221,7 @@ Soy una persona muy responsable, confiable y disciplinada.
 <details>
   <summary><b>Cuéntame sobre un desafío técnico que resolviste recientemente</b></summary>
 
-  > Usa el [método STAR](BEHAVIORAL_CONCEPTS.md) — elige 1-2 ejemplos relevantes para el rol.
+  > Usa el [método STAR](BEHAVIORAL_CONCEPTS.md); elige 1-2 ejemplos relevantes para el rol.
 
   Un ejemplo que destaca mi experiencia es un proyecto reciente donde diseñé flujos de trabajo para procesos de negocio críticos usando Temporal. El objetivo era simplificar una arquitectura altamente compleja mientras aseguraba escalabilidad y confiabilidad. Trabajé de cerca con equipos multifuncionales para definir requerimientos, implementé arquitecturas basadas en eventos y creé documentación clara para el onboarding de otros desarrolladores. Como resultado, el flujo de trabajo redujo el tiempo de procesamiento en un 30%, mejorando significativamente la eficiencia.
 
@@ -233,7 +233,7 @@ Soy una persona muy responsable, confiable y disciplinada.
 
   Además de mis contribuciones técnicas, tengo una fuerte pasión por el liderazgo y la mentoría. He mentoreado activamente a desarrolladores a través de pair programming, revisiones de código y sesiones de intercambio de conocimiento. He dado talleres en CityJS sobre la construcción de flujos de trabajo con Temporal para desarrolladores JavaScript, y participo regularmente en eventos comunitarios para discutir arquitecturas basadas en eventos para desarrolladores full-stack. Compartir mi conocimiento y aprender de otros siempre ha sido una parte fundamental de mi carrera.
 
-  También soy el fundador de [Proyecto26](https://github.com/proyecto26), una organización de código abierto donde he creado y mantenido librerías y herramientas usadas por desarrolladores en todo el mundo — con millones de descargas a nivel global. Esto implica no solo escribir código limpio y mantenible sino también gestionar issues, responder a retroalimentación de usuarios y fomentar un ambiente colaborativo para los contribuidores. También he sido mentor de desarrolladores a través de iniciativas como CodeYourFuture, BeeSoft Labs y LaPlazaDevs. Recientemente, he estado explorando agentes de IA, skills y herramientas — no solo usándolos sino creando proyectos de código abierto alrededor de ellos para resolver desafíos reales de forma creativa.
+  También soy el fundador de [Proyecto26](https://github.com/proyecto26), una organización de código abierto donde he creado y mantenido librerías y herramientas usadas por desarrolladores en todo el mundo; con millones de descargas a nivel global. Esto implica no solo escribir código limpio y mantenible sino también gestionar issues, responder a retroalimentación de usuarios y fomentar un ambiente colaborativo para los contribuidores. También he sido mentor de desarrolladores a través de iniciativas como CodeYourFuture, BeeSoft Labs y LaPlazaDevs. Recientemente, he estado explorando agentes de IA, skills y herramientas; no solo usándolos sino creando proyectos de código abierto alrededor de ellos para resolver desafíos reales de forma creativa.
 </details>
 
 <details>
@@ -267,9 +267,9 @@ Soy una persona muy responsable, confiable y disciplinada.
 <details>
   <summary><b>¿Qué harías diferente en tu próximo rol?</b></summary>
 
-  Me enfocaría en la responsabilidad a largo plazo desde el primer día. En mi trabajo reciente como freelance y por contrato, entregué resultados de alto impacto, pero la naturaleza de los compromisos a corto plazo significa que te vas antes de ver el ciclo de vida completo de lo que construiste. En mi próximo rol, quiero comprometerme completamente con un solo producto y equipo — asumir responsabilidad más allá de la entrega, y ayudar a dar forma tanto a la dirección técnica como a la cultura mientras la empresa escala.
+  Me enfocaría en la responsabilidad a largo plazo desde el primer día. En mi trabajo reciente como freelance y por contrato, entregué resultados de alto impacto, pero la naturaleza de los compromisos a corto plazo significa que te vas antes de ver el ciclo de vida completo de lo que construiste. En mi próximo rol, quiero comprometerme completamente con un solo producto y equipo; asumir responsabilidad más allá de la entrega, y ayudar a dar forma tanto a la dirección técnica como a la cultura mientras la empresa escala.
 
-  También sería más intencional en evitar ambientes con baja responsabilidad o burocracia excesiva — donde las decisiones se estancan, se evita la retroalimentación o el impacto es difícil de medir. Quiero estar en un lugar donde se anime a los ingenieros a pensar más allá de su alcance inmediato y donde el proceso sirva a los resultados, no al revés.
+  También sería más intencional en evitar ambientes con baja responsabilidad o burocracia excesiva; donde las decisiones se estancan, se evita la retroalimentación o el impacto es difícil de medir. Quiero estar en un lugar donde se anime a los ingenieros a pensar más allá de su alcance inmediato y donde el proceso sirva a los resultados, no al revés.
 </details>
 
 <details>
