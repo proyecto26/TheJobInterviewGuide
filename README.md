@@ -169,6 +169,7 @@ This repo includes [Claude Code](https://docs.anthropic.com/en/docs/claude-code)
 ## Mock Interviews
 - [Watch technical mock interviews with engineers from Google, Amazon and more](https://interviewing.io/recordings)
 - [Practice live interviews with peers](https://www.pramp.com)
+- [Practice free peer mock interviews for DSA and system design, with a guide for the interviewer](https://practick.io)
 - [The Interview Cake Course](https://www.interviewcake.com/table-of-contents)
 - [Get your coding skills certified, practice for technical interviews and build your developer resume](https://codesignal.com/developers)
 
